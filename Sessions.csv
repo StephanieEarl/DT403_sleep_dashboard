@@ -1,0 +1,2619 @@
+﻿person_ID,session_ID,session_type,session_date,session_status,sessions_attended,course_status
+1,1 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+1,1 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+1,1 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+1,1 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+1,1 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+1,1 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+1,1 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+2,2 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+2,2 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+2,2 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+2,2 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+2,2 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+2,2 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+2,2 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+3,3 Assessment  Attended,Assessment,03/06/2024,Attended,1,Not started
+3,3 Session 1 Attended,Session 1,10/06/2024,Attended,1,Not started
+3,3 Session 2 DNA,Session 2,17/06/2024,DNA,1,Not started
+3,3 Session 3 DNA,Session 3,24/06/2024,DNA,1,Not started
+3,3 Session 4 DNA,Session 4,01/07/2024,DNA,1,Not started
+3,3 Session 5 DNA,Session 5,08/07/2024,DNA,1,Not started
+3,3 Session 6 DNA,Session 6,15/07/2024,DNA,1,Not started
+4,4 Assessment  Attended,Assessment,03/06/2024,Attended,4,Not completed
+4,4 Session 1 Attended,Session 1,10/06/2024,Attended,4,Not completed
+4,4 Session 2 DNA,Session 2,17/06/2024,DNA,4,Not completed
+4,4 Session 3 Attended,Session 3,24/06/2024,Attended,4,Not completed
+4,4 Session 4 Attended,Session 4,01/07/2024,Attended,4,Not completed
+4,4 Session 5 Attended,Session 5,08/07/2024,Attended,4,Not completed
+4,4 Session 6 DNA,Session 6,15/07/2024,DNA,4,Not completed
+5,5 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+5,5 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+5,5 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+5,5 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+5,5 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+5,5 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+5,5 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+6,6 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+6,6 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+6,6 Session 2 DNA,Session 2,17/06/2024,DNA,5,Completed
+6,6 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+6,6 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+6,6 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+6,6 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+7,7 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+7,7 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+7,7 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+7,7 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+7,7 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+7,7 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+7,7 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+8,8 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+8,8 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+8,8 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+8,8 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+8,8 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+8,8 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+8,8 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+9,9 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+9,9 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+9,9 Session 2 DNA,Session 2,08/04/2024,DNA,5,Completed
+9,9 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+9,9 Session 4 Attended,Session 4,22/04/2024,Attended,5,Completed
+9,9 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+9,9 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+10,10 Assessment  Attended,Assessment,11/03/2024,Attended,1,Not started
+10,10 Session 1 Attended,Session 1,18/03/2024,Attended,1,Not started
+10,10 Session 2 DNA,Session 2,25/03/2024,DNA,1,Not started
+10,10 Session 3 DNA,Session 3,01/04/2024,DNA,1,Not started
+10,10 Session 4 DNA,Session 4,08/04/2024,DNA,1,Not started
+10,10 Session 5 DNA,Session 5,15/04/2024,DNA,1,Not started
+10,10 Session 6 DNA,Session 6,22/04/2024,DNA,1,Not started
+11,11 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+11,11 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+11,11 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+11,11 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+11,11 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+11,11 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+11,11 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+12,12 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+12,12 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+12,12 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+12,12 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+12,12 Session 4 DNA,Session 4,01/07/2024,DNA,5,Completed
+12,12 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+12,12 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+13,13 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+13,13 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+13,13 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+13,13 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+13,13 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+13,13 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+13,13 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+14,14 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+14,14 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+14,14 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+14,14 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+14,14 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+14,14 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+14,14 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+15,15 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+15,15 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+15,15 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+15,15 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+15,15 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+15,15 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+15,15 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+16,16 Assessment  Attended,Assessment,27/05/2024,Attended,2,Not completed
+16,16 Session 1 Attended,Session 1,03/06/2024,Attended,2,Not completed
+16,16 Session 2 Attended,Session 2,17/06/2024,Attended,2,Not completed
+16,16 Session 3 DNA,Session 3,24/06/2024,DNA,2,Not completed
+16,16 Session 4 DNA,Session 4,01/07/2024,DNA,2,Not completed
+16,16 Session 5 DNA,Session 5,08/07/2024,DNA,2,Not completed
+16,16 Session 6 DNA,Session 6,15/07/2024,DNA,2,Not completed
+17,17 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+17,17 Session 1 Attended,Session 1,20/05/2024,Attended,5,Completed
+17,17 Session 2 DNA,Session 2,27/05/2024,DNA,5,Completed
+17,17 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+17,17 Session 4 Attended,Session 4,17/06/2024,Attended,5,Completed
+17,17 Session 5 Attended,Session 5,24/06/2024,Attended,5,Completed
+17,17 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+18,18 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+18,18 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+18,18 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+18,18 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+18,18 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+18,18 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+18,18 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+19,19 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+19,19 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+19,19 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+19,19 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+19,19 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+19,19 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+19,19 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+20,20 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+20,20 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+20,20 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+20,20 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+20,20 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+20,20 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+20,20 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+21,21 Assessment  Attended,Assessment,27/05/2024,Attended,4,Not completed
+21,21 Session 1 Attended,Session 1,03/06/2024,Attended,4,Not completed
+21,21 Session 2 Attended,Session 2,10/06/2024,Attended,4,Not completed
+21,21 Session 3 Attended,Session 3,17/06/2024,Attended,4,Not completed
+21,21 Session 4 Attended,Session 4,01/07/2024,Attended,4,Not completed
+21,21 Session 5 DNA,Session 5,08/07/2024,DNA,4,Not completed
+21,21 Session 6 DNA,Session 6,15/07/2024,DNA,4,Not completed
+22,22 Assessment  Attended,Assessment,03/06/2024,Attended,0,Not started
+22,22 Session 1 DNA,Session 1,17/06/2024,DNA,0,Not started
+22,22 Session 2 DNA,Session 2,24/06/2024,DNA,0,Not started
+22,22 Session 3 DNA,Session 3,01/07/2024,DNA,0,Not started
+22,22 Session 4 DNA,Session 4,08/07/2024,DNA,0,Not started
+22,22 Session 5 DNA,Session 5,15/07/2024,DNA,0,Not started
+22,22 Session 6 DNA,Session 6,22/07/2024,DNA,0,Not started
+23,23 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+23,23 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+23,23 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+23,23 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+23,23 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+23,23 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+23,23 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+24,24 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+24,24 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+24,24 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+24,24 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+24,24 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+24,24 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+24,24 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+25,25 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+25,25 Session 1 DNA,Session 1,03/06/2024,DNA,5,Completed
+25,25 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+25,25 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+25,25 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+25,25 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+25,25 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+26,26 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+26,26 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+26,26 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+26,26 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+26,26 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+26,26 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+26,26 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+27,27 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+27,27 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+27,27 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+27,27 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+27,27 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+27,27 Session 5 DNA,Session 5,15/07/2024,DNA,5,Completed
+27,27 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+28,28 Assessment  Attended,Assessment,03/06/2024,Attended,5,Not completed
+28,28 Session 1 Attended,Session 1,10/06/2024,Attended,5,Not completed
+28,28 Session 2 Attended,Session 2,17/06/2024,Attended,5,Not completed
+28,28 Session 3 Attended,Session 3,24/06/2024,Attended,5,Not completed
+28,28 Session 4 Attended,Session 4,01/07/2024,Attended,5,Not completed
+28,28 Session 5 Attended,Session 5,15/07/2024,Attended,5,Not completed
+28,28 Session 6 DNA,Session 6,22/07/2024,DNA,5,Not completed
+29,29 Assessment  Attended,Assessment,03/06/2024,Attended,5,Not completed
+29,29 Session 1 Attended,Session 1,17/06/2024,Attended,5,Not completed
+29,29 Session 2 Attended,Session 2,24/06/2024,Attended,5,Not completed
+29,29 Session 3 Attended,Session 3,01/07/2024,Attended,5,Not completed
+29,29 Session 4 Attended,Session 4,08/07/2024,Attended,5,Not completed
+29,29 Session 5 Attended,Session 5,15/07/2024,Attended,5,Not completed
+29,29 Session 6 DNA,Session 6,22/07/2024,DNA,5,Not completed
+30,30 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+30,30 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+30,30 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+30,30 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+30,30 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+30,30 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+30,30 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+31,31 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+31,31 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+31,31 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+31,31 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+31,31 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+31,31 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+31,31 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+32,32 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+32,32 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+32,32 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+32,32 Session 3 DNA,Session 3,18/03/2024,DNA,5,Completed
+32,32 Session 4 Attended,Session 4,25/03/2024,Attended,5,Completed
+32,32 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+32,32 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+33,33 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+33,33 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+33,33 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+33,33 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+33,33 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+33,33 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+33,33 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+34,34 Assessment  Attended,Assessment,03/06/2024,Attended,0,Not started
+34,34 Session 1 DNA,Session 1,10/06/2024,DNA,0,Not started
+34,34 Session 2 DNA,Session 2,17/06/2024,DNA,0,Not started
+34,34 Session 3 DNA,Session 3,24/06/2024,DNA,0,Not started
+34,34 Session 4 DNA,Session 4,01/07/2024,DNA,0,Not started
+34,34 Session 5 DNA,Session 5,15/07/2024,DNA,0,Not started
+34,34 Session 6 DNA,Session 6,22/07/2024,DNA,0,Not started
+35,35 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+35,35 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+35,35 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+35,35 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+35,35 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+35,35 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+35,35 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+36,36 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+36,36 Session 1 DNA,Session 1,13/05/2024,DNA,5,Completed
+36,36 Session 2 Attended,Session 2,20/05/2024,Attended,5,Completed
+36,36 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+36,36 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+36,36 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+36,36 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+37,37 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+37,37 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+37,37 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+37,37 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+37,37 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+37,37 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+37,37 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+38,38 Assessment  Attended,Assessment,05/02/2024,Attended,3,Not completed
+38,38 Session 1 Attended,Session 1,12/02/2024,Attended,3,Not completed
+38,38 Session 2 Attended,Session 2,04/03/2024,Attended,3,Not completed
+38,38 Session 3 Attended,Session 3,11/03/2024,Attended,3,Not completed
+38,38 Session 4 DNA,Session 4,18/03/2024,DNA,3,Not completed
+38,38 Session 5 DNA,Session 5,25/03/2024,DNA,3,Not completed
+38,38 Session 6 DNA,Session 6,01/04/2024,DNA,3,Not completed
+39,39 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+39,39 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+39,39 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+39,39 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+39,39 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+39,39 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+39,39 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+40,40 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+40,40 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+40,40 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+40,40 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+40,40 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+40,40 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+40,40 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+41,41 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+41,41 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+41,41 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+41,41 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+41,41 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+41,41 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+41,41 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+42,42 Assessment  Attended,Assessment,25/03/2024,Attended,2,Part completed
+42,42 Session 1 DNA,Session 1,01/04/2024,DNA,2,Part completed
+42,42 Session 2 DNA,Session 2,08/04/2024,DNA,2,Part completed
+42,42 Session 3 DNA,Session 3,15/04/2024,DNA,2,Part completed
+42,42 Session 4 Attended,Session 4,29/04/2024,Attended,2,Part completed
+42,42 Session 5 DNA,Session 5,06/05/2024,DNA,2,Part completed
+42,42 Session 6 Attended,Session 6,13/05/2024,Attended,2,Part completed
+43,43 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+43,43 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+43,43 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+43,43 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+43,43 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+43,43 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+43,43 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+44,44 Assessment  Attended,Assessment,27/05/2024,Attended,4,Part completed
+44,44 Session 1 DNA,Session 1,03/06/2024,DNA,4,Part completed
+44,44 Session 2 Attended,Session 2,10/06/2024,Attended,4,Part completed
+44,44 Session 3 Attended,Session 3,17/06/2024,Attended,4,Part completed
+44,44 Session 4 Attended,Session 4,24/06/2024,Attended,4,Part completed
+44,44 Session 5 DNA,Session 5,01/07/2024,DNA,4,Part completed
+44,44 Session 6 Attended,Session 6,08/07/2024,Attended,4,Part completed
+45,45 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+45,45 Session 1 Attended,Session 1,29/04/2024,Attended,5,Completed
+45,45 Session 2 Attended,Session 2,06/05/2024,Attended,5,Completed
+45,45 Session 3 Attended,Session 3,13/05/2024,Attended,5,Completed
+45,45 Session 4 DNA,Session 4,20/05/2024,DNA,5,Completed
+45,45 Session 5 Attended,Session 5,27/05/2024,Attended,5,Completed
+45,45 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+46,46 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+46,46 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+46,46 Session 2 DNA,Session 2,13/05/2024,DNA,5,Completed
+46,46 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+46,46 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+46,46 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+46,46 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+47,47 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+47,47 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+47,47 Session 2 DNA,Session 2,13/05/2024,DNA,5,Completed
+47,47 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+47,47 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+47,47 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+47,47 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+48,48 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+48,48 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+48,48 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+48,48 Session 3 DNA,Session 3,20/05/2024,DNA,5,Completed
+48,48 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+48,48 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+48,48 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+49,49 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+49,49 Session 1 DNA,Session 1,06/05/2024,DNA,5,Completed
+49,49 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+49,49 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+49,49 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+49,49 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+49,49 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+50,50 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+50,50 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+50,50 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+50,50 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+50,50 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+50,50 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+50,50 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+51,51 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+51,51 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+51,51 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+51,51 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+51,51 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+51,51 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+51,51 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+52,52 Assessment  Attended,Assessment,06/05/2024,Attended,1,Not started
+52,52 Session 1 Attended,Session 1,13/05/2024,Attended,1,Not started
+52,52 Session 2 DNA,Session 2,20/05/2024,DNA,1,Not started
+52,52 Session 3 DNA,Session 3,27/05/2024,DNA,1,Not started
+52,52 Session 4 DNA,Session 4,03/06/2024,DNA,1,Not started
+52,52 Session 5 DNA,Session 5,10/06/2024,DNA,1,Not started
+52,52 Session 6 DNA,Session 6,17/06/2024,DNA,1,Not started
+53,53 Assessment  Attended,Assessment,27/05/2024,Attended,0,Not started
+53,53 Session 1 DNA,Session 1,03/06/2024,DNA,0,Not started
+53,53 Session 2 DNA,Session 2,10/06/2024,DNA,0,Not started
+53,53 Session 3 DNA,Session 3,17/06/2024,DNA,0,Not started
+53,53 Session 4 DNA,Session 4,24/06/2024,DNA,0,Not started
+53,53 Session 5 DNA,Session 5,01/07/2024,DNA,0,Not started
+53,53 Session 6 DNA,Session 6,08/07/2024,DNA,0,Not started
+54,54 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+54,54 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+54,54 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+54,54 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+54,54 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+54,54 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+54,54 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+55,55 Assessment  Attended,Assessment,05/02/2024,Attended,4,Not completed
+55,55 Session 1 Attended,Session 1,12/02/2024,Attended,4,Not completed
+55,55 Session 2 Attended,Session 2,19/02/2024,Attended,4,Not completed
+55,55 Session 3 Attended,Session 3,04/03/2024,Attended,4,Not completed
+55,55 Session 4 Attended,Session 4,18/03/2024,Attended,4,Not completed
+55,55 Session 5 DNA,Session 5,25/03/2024,DNA,4,Not completed
+55,55 Session 6 DNA,Session 6,01/04/2024,DNA,4,Not completed
+56,56 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+56,56 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+56,56 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+56,56 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+56,56 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+56,56 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+56,56 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+57,57 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+57,57 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+57,57 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+57,57 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+57,57 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+57,57 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+57,57 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+58,58 Assessment  Attended,Assessment,05/02/2024,Attended,4,Not completed
+58,58 Session 1 Attended,Session 1,12/02/2024,Attended,4,Not completed
+58,58 Session 2 Attended,Session 2,19/02/2024,Attended,4,Not completed
+58,58 Session 3 Attended,Session 3,04/03/2024,Attended,4,Not completed
+58,58 Session 4 Attended,Session 4,11/03/2024,Attended,4,Not completed
+58,58 Session 5 DNA,Session 5,18/03/2024,DNA,4,Not completed
+58,58 Session 6 DNA,Session 6,08/04/2024,DNA,4,Not completed
+59,59 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+59,59 Session 1 Attended,Session 1,12/02/2024,Attended,5,Completed
+59,59 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+59,59 Session 3 Attended,Session 3,11/03/2024,Attended,5,Completed
+59,59 Session 4 DNA,Session 4,18/03/2024,DNA,5,Completed
+59,59 Session 5 Attended,Session 5,08/04/2024,Attended,5,Completed
+59,59 Session 6 Attended,Session 6,15/04/2024,Attended,5,Completed
+60,60 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+60,60 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+60,60 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+60,60 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+60,60 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+60,60 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+60,60 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+61,61 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+61,61 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+61,61 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+61,61 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+61,61 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+61,61 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+61,61 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+62,62 Assessment  Attended,Assessment,26/02/2024,Attended,0,Not started
+62,62 Session 1 DNA,Session 1,04/03/2024,DNA,0,Not started
+62,62 Session 2 DNA,Session 2,11/03/2024,DNA,0,Not started
+62,62 Session 3 DNA,Session 3,18/03/2024,DNA,0,Not started
+62,62 Session 4 DNA,Session 4,25/03/2024,DNA,0,Not started
+62,62 Session 5 DNA,Session 5,01/04/2024,DNA,0,Not started
+62,62 Session 6 DNA,Session 6,08/04/2024,DNA,0,Not started
+63,63 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+63,63 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+63,63 Session 2 DNA,Session 2,25/03/2024,DNA,5,Completed
+63,63 Session 3 Attended,Session 3,01/04/2024,Attended,5,Completed
+63,63 Session 4 Attended,Session 4,08/04/2024,Attended,5,Completed
+63,63 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+63,63 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+64,64 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+64,64 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+64,64 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+64,64 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+64,64 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+64,64 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+64,64 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+65,65 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+65,65 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+65,65 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+65,65 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+65,65 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+65,65 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+65,65 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+66,66 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+66,66 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+66,66 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+66,66 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+66,66 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+66,66 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+66,66 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+67,67 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+67,67 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+67,67 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+67,67 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+67,67 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+67,67 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+67,67 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+68,68 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+68,68 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+68,68 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+68,68 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+68,68 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+68,68 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+68,68 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+69,69 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+69,69 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+69,69 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+69,69 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+69,69 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+69,69 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+69,69 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+70,70 Assessment  Attended,Assessment,22/04/2024,Attended,1,Not started
+70,70 Session 1 Attended,Session 1,29/04/2024,Attended,1,Not started
+70,70 Session 2 DNA,Session 2,06/05/2024,DNA,1,Not started
+70,70 Session 3 DNA,Session 3,13/05/2024,DNA,1,Not started
+70,70 Session 4 DNA,Session 4,20/05/2024,DNA,1,Not started
+70,70 Session 5 DNA,Session 5,27/05/2024,DNA,1,Not started
+70,70 Session 6 DNA,Session 6,03/06/2024,DNA,1,Not started
+71,71 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+71,71 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+71,71 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+71,71 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+71,71 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+71,71 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+71,71 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+72,72 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+72,72 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+72,72 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+72,72 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+72,72 Session 4 DNA,Session 4,17/06/2024,DNA,5,Completed
+72,72 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+72,72 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+73,73 Assessment  Attended,Assessment,13/05/2024,Attended,0,Not started
+73,73 Session 1 DNA,Session 1,20/05/2024,DNA,0,Not started
+73,73 Session 2 DNA,Session 2,27/05/2024,DNA,0,Not started
+73,73 Session 3 DNA,Session 3,03/06/2024,DNA,0,Not started
+73,73 Session 4 DNA,Session 4,10/06/2024,DNA,0,Not started
+73,73 Session 5 DNA,Session 5,17/06/2024,DNA,0,Not started
+73,73 Session 6 DNA,Session 6,24/06/2024,DNA,0,Not started
+74,74 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+74,74 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+74,74 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+74,74 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+74,74 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+74,74 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+74,74 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+75,75 Assessment  Attended,Assessment,29/04/2024,Attended,4,Not completed
+75,75 Session 1 Attended,Session 1,06/05/2024,Attended,4,Not completed
+75,75 Session 2 Attended,Session 2,13/05/2024,Attended,4,Not completed
+75,75 Session 3 Attended,Session 3,20/05/2024,Attended,4,Not completed
+75,75 Session 4 Attended,Session 4,27/05/2024,Attended,4,Not completed
+75,75 Session 5 DNA,Session 5,03/06/2024,DNA,4,Not completed
+75,75 Session 6 DNA,Session 6,10/06/2024,DNA,4,Not completed
+76,76 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+76,76 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+76,76 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+76,76 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+76,76 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+76,76 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+76,76 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+77,77 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+77,77 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+77,77 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+77,77 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+77,77 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+77,77 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+77,77 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+78,78 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+78,78 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+78,78 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+78,78 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+78,78 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+78,78 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+78,78 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+79,79 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+79,79 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+79,79 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+79,79 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+79,79 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+79,79 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+79,79 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+80,80 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+80,80 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+80,80 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+80,80 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+80,80 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+80,80 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+80,80 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+81,81 Assessment  Attended,Assessment,20/05/2024,Attended,4,Part completed
+81,81 Session 1 Attended,Session 1,03/06/2024,Attended,4,Part completed
+81,81 Session 2 Attended,Session 2,10/06/2024,Attended,4,Part completed
+81,81 Session 3 DNA,Session 3,17/06/2024,DNA,4,Part completed
+81,81 Session 4 Attended,Session 4,24/06/2024,Attended,4,Part completed
+81,81 Session 5 DNA,Session 5,30/06/2024,DNA,4,Part completed
+81,81 Session 6 Attended,Session 6,08/07/2024,Attended,4,Part completed
+82,82 Assessment  Attended,Assessment,08/04/2024,Attended,0,Not started
+82,82 Session 1 DNA,Session 1,22/04/2024,DNA,0,Not started
+82,82 Session 2 DNA,Session 2,29/04/2024,DNA,0,Not started
+82,82 Session 3 DNA,Session 3,06/05/2024,DNA,0,Not started
+82,82 Session 4 DNA,Session 4,13/05/2024,DNA,0,Not started
+82,82 Session 5 DNA,Session 5,20/05/2024,DNA,0,Not started
+82,82 Session 6 DNA,Session 6,27/05/2024,DNA,0,Not started
+83,83 Assessment  Attended,Assessment,03/06/2024,Attended,1,Not started
+83,83 Session 1 Attended,Session 1,17/06/2024,Attended,1,Not started
+83,83 Session 2 DNA,Session 2,24/06/2024,DNA,1,Not started
+83,83 Session 3 DNA,Session 3,30/06/2024,DNA,1,Not started
+83,83 Session 4 DNA,Session 4,08/07/2024,DNA,1,Not started
+83,83 Session 5 DNA,Session 5,15/07/2024,DNA,1,Not started
+83,83 Session 6 DNA,Session 6,22/07/2024,DNA,1,Not started
+84,84 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+84,84 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+84,84 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+84,84 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+84,84 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+84,84 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+84,84 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+85,85 Assessment  Attended,Assessment,29/04/2024,Attended,0,Not started
+85,85 Session 1 DNA,Session 1,06/05/2024,DNA,0,Not started
+85,85 Session 2 DNA,Session 2,13/05/2024,DNA,0,Not started
+85,85 Session 3 DNA,Session 3,20/05/2024,DNA,0,Not started
+85,85 Session 4 DNA,Session 4,27/05/2024,DNA,0,Not started
+85,85 Session 5 DNA,Session 5,03/06/2024,DNA,0,Not started
+85,85 Session 6 DNA,Session 6,17/06/2024,DNA,0,Not started
+86,86 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+86,86 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+86,86 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+86,86 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+86,86 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+86,86 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+86,86 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+87,87 Assessment  Attended,Assessment,29/04/2024,Attended,0,Not started
+87,87 Session 1 DNA,Session 1,06/05/2024,DNA,0,Not started
+87,87 Session 2 DNA,Session 2,13/05/2024,DNA,0,Not started
+87,87 Session 3 DNA,Session 3,20/05/2024,DNA,0,Not started
+87,87 Session 4 DNA,Session 4,27/05/2024,DNA,0,Not started
+87,87 Session 5 DNA,Session 5,03/06/2024,DNA,0,Not started
+87,87 Session 6 DNA,Session 6,17/06/2024,DNA,0,Not started
+88,88 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+88,88 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+88,88 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+88,88 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+88,88 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+88,88 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+88,88 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+89,89 Assessment  Attended,Assessment,20/05/2024,Attended,1,Not started
+89,89 Session 1 Attended,Session 1,27/05/2024,Attended,1,Not started
+89,89 Session 2 DNA,Session 2,03/06/2024,DNA,1,Not started
+89,89 Session 3 DNA,Session 3,17/06/2024,DNA,1,Not started
+89,89 Session 4 DNA,Session 4,24/06/2024,DNA,1,Not started
+89,89 Session 5 DNA,Session 5,08/07/2024,DNA,1,Not started
+89,89 Session 6 DNA,Session 6,02/07/2024,DNA,1,Not started
+90,90 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+90,90 Session 1 DNA,Session 1,20/05/2024,DNA,5,Completed
+90,90 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+90,90 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+90,90 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+90,90 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+90,90 Session 6 Attended,Session 6,24/06/2024,Attended,5,Completed
+91,91 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+91,91 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+91,91 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+91,91 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+91,91 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+91,91 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+91,91 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+92,92 Assessment  Attended,Assessment,13/05/2024,Attended,4,Part completed
+92,92 Session 1 Attended,Session 1,20/05/2024,Attended,4,Part completed
+92,92 Session 2 DNA,Session 2,27/05/2024,DNA,4,Part completed
+92,92 Session 3 Attended,Session 3,03/06/2024,Attended,4,Part completed
+92,92 Session 4 DNA,Session 4,10/06/2024,DNA,4,Part completed
+92,92 Session 5 Attended,Session 5,17/06/2024,Attended,4,Part completed
+92,92 Session 6 Attended,Session 6,24/06/2024,Attended,4,Part completed
+93,93 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+93,93 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+93,93 Session 2 Attended,Session 2,20/05/2024,Attended,5,Completed
+93,93 Session 3 DNA,Session 3,27/05/2024,DNA,5,Completed
+93,93 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+93,93 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+93,93 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+94,94 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+94,94 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+94,94 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+94,94 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+94,94 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+94,94 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+94,94 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+95,95 Assessment  Attended,Assessment,11/03/2024,Attended,4,Part completed
+95,95 Session 1 DNA,Session 1,18/03/2024,DNA,4,Part completed
+95,95 Session 2 Attended,Session 2,25/03/2024,Attended,4,Part completed
+95,95 Session 3 Attended,Session 3,01/04/2024,Attended,4,Part completed
+95,95 Session 4 Attended,Session 4,08/04/2024,Attended,4,Part completed
+95,95 Session 5 DNA,Session 5,15/04/2024,DNA,4,Part completed
+95,95 Session 6 Attended,Session 6,22/04/2024,Attended,4,Part completed
+96,96 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+96,96 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+96,96 Session 2 DNA,Session 2,25/03/2024,DNA,5,Completed
+96,96 Session 3 Attended,Session 3,01/04/2024,Attended,5,Completed
+96,96 Session 4 Attended,Session 4,08/04/2024,Attended,5,Completed
+96,96 Session 5 Attended,Session 5,15/04/2024,Attended,5,Completed
+96,96 Session 6 Attended,Session 6,22/04/2024,Attended,5,Completed
+97,97 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+97,97 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+97,97 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+97,97 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+97,97 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+97,97 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+97,97 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+98,98 Assessment  Attended,Assessment,25/03/2024,Attended,0,Not started
+98,98 Session 1 DNA,Session 1,01/04/2024,DNA,0,Not started
+98,98 Session 2 DNA,Session 2,08/04/2024,DNA,0,Not started
+98,98 Session 3 DNA,Session 3,15/04/2024,DNA,0,Not started
+98,98 Session 4 DNA,Session 4,22/04/2024,DNA,0,Not started
+98,98 Session 5 DNA,Session 5,29/04/2024,DNA,0,Not started
+98,98 Session 6 DNA,Session 6,06/05/2024,DNA,0,Not started
+99,99 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+99,99 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+99,99 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+99,99 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+99,99 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+99,99 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+99,99 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+100,100 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+100,100 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+100,100 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+100,100 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+100,100 Session 4 Attended,Session 4,18/03/2024,Attended,6,Completed
+100,100 Session 5 Attended,Session 5,25/03/2024,Attended,6,Completed
+100,100 Session 6 Attended,Session 6,01/04/2024,Attended,6,Completed
+101,101 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+101,101 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+101,101 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+101,101 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+101,101 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+101,101 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+101,101 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+102,102 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+102,102 Session 1 DNA,Session 1,12/02/2024,DNA,5,Completed
+102,102 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+102,102 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+102,102 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+102,102 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+102,102 Session 6 Attended,Session 6,25/03/2024,Attended,5,Completed
+103,103 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+103,103 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+103,103 Session 2 Attended,Session 2,01/04/2024,Attended,5,Completed
+103,103 Session 3 DNA,Session 3,08/04/2024,DNA,5,Completed
+103,103 Session 4 Attended,Session 4,29/04/2024,Attended,5,Completed
+103,103 Session 5 Attended,Session 5,06/05/2024,Attended,5,Completed
+103,103 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+104,104 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+104,104 Session 1 Attended,Session 1,17/06/2024,Attended,5,Completed
+104,104 Session 2 DNA,Session 2,24/06/2024,DNA,5,Completed
+104,104 Session 3 Attended,Session 3,01/07/2024,Attended,5,Completed
+104,104 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+104,104 Session 5 Attended,Session 5,15/07/2024,Attended,5,Completed
+104,104 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+105,105 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+105,105 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+105,105 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+105,105 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+105,105 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+105,105 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+105,105 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+106,106 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+106,106 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+106,106 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+106,106 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+106,106 Session 4 DNA,Session 4,01/07/2024,DNA,5,Completed
+106,106 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+106,106 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+107,107 Assessment  Attended,Assessment,20/05/2024,Attended,1,Not started
+107,107 Session 1 Attended,Session 1,27/05/2024,Attended,1,Not started
+107,107 Session 2 DNA,Session 2,03/06/2024,DNA,1,Not started
+107,107 Session 3 DNA,Session 3,17/06/2024,DNA,1,Not started
+107,107 Session 4 DNA,Session 4,24/06/2024,DNA,1,Not started
+107,107 Session 5 DNA,Session 5,01/07/2024,DNA,1,Not started
+107,107 Session 6 DNA,Session 6,08/07/2024,DNA,1,Not started
+108,108 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+108,108 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+108,108 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+108,108 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+108,108 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+108,108 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+108,108 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+109,109 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+109,109 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+109,109 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+109,109 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+109,109 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+109,109 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+109,109 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+110,110 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+110,110 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+110,110 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+110,110 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+110,110 Session 4 Attended,Session 4,06/05/2024,Attended,6,Completed
+110,110 Session 5 Attended,Session 5,13/05/2024,Attended,6,Completed
+110,110 Session 6 Attended,Session 6,20/05/2024,Attended,6,Completed
+111,111 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+111,111 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+111,111 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+111,111 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+111,111 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+111,111 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+111,111 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+112,112 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+112,112 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+112,112 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+112,112 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+112,112 Session 4 DNA,Session 4,25/06/2024,DNA,5,Completed
+112,112 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+112,112 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+113,113 Assessment  Attended,Assessment,05/02/2024,Attended,3,Not completed
+113,113 Session 1 Attended,Session 1,19/02/2024,Attended,3,Not completed
+113,113 Session 2 Attended,Session 2,04/03/2024,Attended,3,Not completed
+113,113 Session 3 Attended,Session 3,18/03/2024,Attended,3,Not completed
+113,113 Session 4 DNA,Session 4,25/03/2024,DNA,3,Not completed
+113,113 Session 5 DNA,Session 5,08/04/2024,DNA,3,Not completed
+113,113 Session 6 DNA,Session 6,15/04/2024,DNA,3,Not completed
+114,114 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+114,114 Session 1 Attended,Session 1,29/04/2024,Attended,5,Completed
+114,114 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+114,114 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+114,114 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+114,114 Session 5 DNA,Session 5,03/06/2024,DNA,5,Completed
+114,114 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+115,115 Assessment  Attended,Assessment,11/03/2024,Attended,0,Not started
+115,115 Session 1 DNA,Session 1,18/03/2024,DNA,0,Not started
+115,115 Session 2 DNA,Session 2,25/03/2024,DNA,0,Not started
+115,115 Session 3 DNA,Session 3,01/04/2024,DNA,0,Not started
+115,115 Session 4 DNA,Session 4,08/04/2024,DNA,0,Not started
+115,115 Session 5 DNA,Session 5,15/04/2024,DNA,0,Not started
+115,115 Session 6 DNA,Session 6,22/04/2024,DNA,0,Not started
+116,116 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+116,116 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+116,116 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+116,116 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+116,116 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+116,116 Session 5 Attended,Session 5,25/03/2024,Attended,6,Completed
+116,116 Session 6 Attended,Session 6,01/04/2024,Attended,6,Completed
+117,117 Assessment  Attended,Assessment,25/03/2024,Attended,4,Part completed
+117,117 Session 1 DNA,Session 1,08/04/2024,DNA,4,Part completed
+117,117 Session 2 Attended,Session 2,15/04/2024,Attended,4,Part completed
+117,117 Session 3 DNA,Session 3,22/04/2024,DNA,4,Part completed
+117,117 Session 4 Attended,Session 4,29/04/2024,Attended,4,Part completed
+117,117 Session 5 Attended,Session 5,06/05/2024,Attended,4,Part completed
+117,117 Session 6 Attended,Session 6,13/05/2024,Attended,4,Part completed
+118,118 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+118,118 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+118,118 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+118,118 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+118,118 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+118,118 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+118,118 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+119,119 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+119,119 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+119,119 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+119,119 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+119,119 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+119,119 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+119,119 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+120,120 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+120,120 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+120,120 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+120,120 Session 3 DNA,Session 3,18/03/2024,DNA,5,Completed
+120,120 Session 4 Attended,Session 4,25/03/2024,Attended,5,Completed
+120,120 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+120,120 Session 6 Attended,Session 6,20/05/2024,Attended,5,Completed
+121,121 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+121,121 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+121,121 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+121,121 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+121,121 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+121,121 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+121,121 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+122,122 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+122,122 Session 1 DNA,Session 1,12/02/2024,DNA,5,Completed
+122,122 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+122,122 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+122,122 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+122,122 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+122,122 Session 6 Attended,Session 6,25/03/2024,Attended,5,Completed
+123,123 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+123,123 Session 1 Attended,Session 1,12/02/2024,Attended,5,Completed
+123,123 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+123,123 Session 3 DNA,Session 3,26/02/2024,DNA,5,Completed
+123,123 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+123,123 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+123,123 Session 6 Attended,Session 6,25/03/2024,Attended,5,Completed
+124,124 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+124,124 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+124,124 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+124,124 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+124,124 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+124,124 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+124,124 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+125,125 Assessment  Attended,Assessment,26/02/2024,Attended,4,Part completed
+125,125 Session 1 DNA,Session 1,04/03/2024,DNA,4,Part completed
+125,125 Session 2 Attended,Session 2,11/03/2024,Attended,4,Part completed
+125,125 Session 3 Attended,Session 3,18/03/2024,Attended,4,Part completed
+125,125 Session 4 DNA,Session 4,25/03/2024,DNA,4,Part completed
+125,125 Session 5 Attended,Session 5,01/04/2024,Attended,4,Part completed
+125,125 Session 6 Attended,Session 6,08/04/2024,Attended,4,Part completed
+126,126 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+126,126 Session 1 Attended,Session 1,12/02/2024,Attended,5,Completed
+126,126 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+126,126 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+126,126 Session 4 Attended,Session 4,18/03/2024,Attended,5,Completed
+126,126 Session 5 DNA,Session 5,25/03/2024,DNA,5,Completed
+126,126 Session 6 Attended,Session 6,01/04/2024,Attended,5,Completed
+127,127 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+127,127 Session 1 DNA,Session 1,20/05/2024,DNA,5,Completed
+127,127 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+127,127 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+127,127 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+127,127 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+127,127 Session 6 Attended,Session 6,24/06/2024,Attended,5,Completed
+128,128 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+128,128 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+128,128 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+128,128 Session 3 Attended,Session 3,18/03/2024,Attended,5,Completed
+128,128 Session 4 DNA,Session 4,25/03/2024,DNA,5,Completed
+128,128 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+128,128 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+129,129 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+129,129 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+129,129 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+129,129 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+129,129 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+129,129 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+129,129 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+130,130 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+130,130 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+130,130 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+130,130 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+130,130 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+130,130 Session 5 Attended,Session 5,22/04/2024,Attended,6,Completed
+130,130 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+131,131 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+131,131 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+131,131 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+131,131 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+131,131 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+131,131 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+131,131 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+132,132 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+132,132 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+132,132 Session 2 Attended,Session 2,25/03/2024,Attended,5,Completed
+132,132 Session 3 Attended,Session 3,01/04/2024,Attended,5,Completed
+132,132 Session 4 DNA,Session 4,08/04/2024,DNA,5,Completed
+132,132 Session 5 Attended,Session 5,15/04/2024,Attended,5,Completed
+132,132 Session 6 Attended,Session 6,22/04/2024,Attended,5,Completed
+133,133 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+133,133 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+133,133 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+133,133 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+133,133 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+133,133 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+133,133 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+134,134 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+134,134 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+134,134 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+134,134 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+134,134 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+134,134 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+134,134 Session 6 Attended,Session 6,01/04/2024,Attended,6,Completed
+135,135 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+135,135 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+135,135 Session 2 Attended,Session 2,15/04/2024,Attended,5,Completed
+135,135 Session 3 DNA,Session 3,22/04/2024,DNA,5,Completed
+135,135 Session 4 Attended,Session 4,29/04/2024,Attended,5,Completed
+135,135 Session 5 Attended,Session 5,06/05/2024,Attended,5,Completed
+135,135 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+136,136 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+136,136 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+136,136 Session 2 DNA,Session 2,10/06/2024,DNA,5,Completed
+136,136 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+136,136 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+136,136 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+136,136 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+137,137 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+137,137 Session 1 Attended,Session 1,19/02/2024,Attended,6,Completed
+137,137 Session 2 Attended,Session 2,26/02/2024,Attended,6,Completed
+137,137 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+137,137 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+137,137 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+137,137 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+138,138 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+138,138 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+138,138 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+138,138 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+138,138 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+138,138 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+138,138 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+139,139 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+139,139 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+139,139 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+139,139 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+139,139 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+139,139 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+139,139 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+140,140 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+140,140 Session 1 DNA,Session 1,01/04/2024,DNA,5,Completed
+140,140 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+140,140 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+140,140 Session 4 Attended,Session 4,22/04/2024,Attended,5,Completed
+140,140 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+140,140 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+141,141 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+141,141 Session 1 DNA,Session 1,12/02/2024,DNA,5,Completed
+141,141 Session 2 Attended,Session 2,26/02/2024,Attended,5,Completed
+141,141 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+141,141 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+141,141 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+141,141 Session 6 Attended,Session 6,25/03/2024,Attended,5,Completed
+142,142 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+142,142 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+142,142 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+142,142 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+142,142 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+142,142 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+142,142 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+143,143 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+143,143 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+143,143 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+143,143 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+143,143 Session 4 Attended,Session 4,01/04/2024,Attended,6,Completed
+143,143 Session 5 Attended,Session 5,08/04/2024,Attended,6,Completed
+143,143 Session 6 Attended,Session 6,15/04/2024,Attended,6,Completed
+144,144 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+144,144 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+144,144 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+144,144 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+144,144 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+144,144 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+144,144 Session 6 Attended,Session 6,13/05/2024,Attended,6,Completed
+145,145 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+145,145 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+145,145 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+145,145 Session 3 DNA,Session 3,15/04/2024,DNA,5,Completed
+145,145 Session 4 Attended,Session 4,22/04/2024,Attended,5,Completed
+145,145 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+145,145 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+146,146 Assessment  Attended,Assessment,03/06/2024,Attended,2,Not completed
+146,146 Session 1 Attended,Session 1,10/06/2024,Attended,2,Not completed
+146,146 Session 2 Attended,Session 2,17/06/2024,Attended,2,Not completed
+146,146 Session 3 DNA,Session 3,17/06/2024,DNA,2,Not completed
+146,146 Session 4 DNA,Session 4,24/06/2024,DNA,2,Not completed
+146,146 Session 5 DNA,Session 5,01/07/2024,DNA,2,Not completed
+146,146 Session 6 DNA,Session 6,08/07/2024,DNA,2,Not completed
+147,147 Assessment  Attended,Assessment,25/03/2024,Attended,4,Part completed
+147,147 Session 1 DNA,Session 1,08/04/2024,DNA,4,Part completed
+147,147 Session 2 Attended,Session 2,15/04/2024,Attended,4,Part completed
+147,147 Session 3 DNA,Session 3,22/04/2024,DNA,4,Part completed
+147,147 Session 4 Attended,Session 4,06/05/2024,Attended,4,Part completed
+147,147 Session 5 Attended,Session 5,13/05/2024,Attended,4,Part completed
+147,147 Session 6 Attended,Session 6,20/05/2024,Attended,4,Part completed
+148,148 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+148,148 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+148,148 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+148,148 Session 3 DNA,Session 3,24/06/2024,DNA,5,Completed
+148,148 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+148,148 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+148,148 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+149,149 Assessment  Attended,Assessment,26/02/2024,Attended,4,Part completed
+149,149 Session 1 DNA,Session 1,11/03/2024,DNA,4,Part completed
+149,149 Session 2 Attended,Session 2,18/03/2024,Attended,4,Part completed
+149,149 Session 3 Attended,Session 3,25/03/2024,Attended,4,Part completed
+149,149 Session 4 DNA,Session 4,08/04/2024,DNA,4,Part completed
+149,149 Session 5 Attended,Session 5,15/04/2024,Attended,4,Part completed
+149,149 Session 6 Attended,Session 6,22/04/2024,Attended,4,Part completed
+150,150 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+150,150 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+150,150 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+150,150 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+150,150 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+150,150 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+150,150 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+151,151 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+151,151 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+151,151 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+151,151 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+151,151 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+151,151 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+151,151 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+152,152 Assessment  Attended,Assessment,25/03/2024,Attended,3,Part completed
+152,152 Session 1 DNA,Session 1,08/04/2024,DNA,3,Part completed
+152,152 Session 2 Attended,Session 2,15/04/2024,Attended,3,Part completed
+152,152 Session 3 DNA,Session 3,22/04/2024,DNA,3,Part completed
+152,152 Session 4 Attended,Session 4,29/04/2024,Attended,3,Part completed
+152,152 Session 5 DNA,Session 5,06/05/2024,DNA,3,Part completed
+152,152 Session 6 Attended,Session 6,13/05/2024,Attended,3,Part completed
+153,153 Assessment  Attended,Assessment,20/05/2024,Attended,3,Part completed
+153,153 Session 1 DNA,Session 1,27/05/2024,DNA,3,Part completed
+153,153 Session 2 Attended,Session 2,10/06/2024,Attended,3,Part completed
+153,153 Session 3 Attended,Session 3,17/06/2024,Attended,3,Part completed
+153,153 Session 4 DNA,Session 4,25/06/2024,DNA,3,Part completed
+153,153 Session 5 DNA,Session 5,01/07/2024,DNA,3,Part completed
+153,153 Session 6 Attended,Session 6,08/07/2024,Attended,3,Part completed
+154,154 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+154,154 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+154,154 Session 2 Attended,Session 2,25/03/2024,Attended,5,Completed
+154,154 Session 3 Attended,Session 3,08/04/2024,Attended,5,Completed
+154,154 Session 4 DNA,Session 4,15/04/2024,DNA,5,Completed
+154,154 Session 5 Attended,Session 5,22/04/2024,Attended,5,Completed
+154,154 Session 6 Attended,Session 6,29/04/2024,Attended,5,Completed
+155,155 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+155,155 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+155,155 Session 2 Attended,Session 2,25/03/2024,Attended,5,Completed
+155,155 Session 3 DNA,Session 3,08/04/2024,DNA,5,Completed
+155,155 Session 4 Attended,Session 4,15/04/2024,Attended,5,Completed
+155,155 Session 5 Attended,Session 5,22/04/2024,Attended,5,Completed
+155,155 Session 6 Attended,Session 6,29/04/2024,Attended,5,Completed
+156,156 Assessment  Attended,Assessment,11/03/2024,Attended,4,Part completed
+156,156 Session 1 DNA,Session 1,18/03/2024,DNA,4,Part completed
+156,156 Session 2 DNA,Session 2,25/03/2024,DNA,4,Part completed
+156,156 Session 3 Attended,Session 3,01/04/2024,Attended,4,Part completed
+156,156 Session 4 Attended,Session 4,08/04/2024,Attended,4,Part completed
+156,156 Session 5 Attended,Session 5,15/04/2024,Attended,4,Part completed
+156,156 Session 6 Attended,Session 6,22/04/2024,Attended,4,Part completed
+157,157 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+157,157 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+157,157 Session 2 DNA,Session 2,03/06/2024,DNA,5,Completed
+157,157 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+157,157 Session 4 Attended,Session 4,17/06/2024,Attended,5,Completed
+157,157 Session 5 Attended,Session 5,24/06/2024,Attended,5,Completed
+157,157 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+158,158 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+158,158 Session 1 DNA,Session 1,08/04/2024,DNA,5,Completed
+158,158 Session 2 Attended,Session 2,15/04/2024,Attended,5,Completed
+158,158 Session 3 Attended,Session 3,22/04/2024,Attended,5,Completed
+158,158 Session 4 Attended,Session 4,29/04/2024,Attended,5,Completed
+158,158 Session 5 Attended,Session 5,06/05/2024,Attended,5,Completed
+158,158 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+159,159 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+159,159 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+159,159 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+159,159 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+159,159 Session 4 Attended,Session 4,06/05/2024,Attended,6,Completed
+159,159 Session 5 Attended,Session 5,13/05/2024,Attended,6,Completed
+159,159 Session 6 Attended,Session 6,20/05/2024,Attended,6,Completed
+160,160 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+160,160 Session 1 Attended,Session 1,20/05/2024,Attended,5,Completed
+160,160 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+160,160 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+160,160 Session 4 DNA,Session 4,10/06/2024,DNA,5,Completed
+160,160 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+160,160 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+161,161 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+161,161 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+161,161 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+161,161 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+161,161 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+161,161 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+161,161 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+162,162 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+162,162 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+162,162 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+162,162 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+162,162 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+162,162 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+162,162 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+163,163 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+163,163 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+163,163 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+163,163 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+163,163 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+163,163 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+163,163 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+164,164 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+164,164 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+164,164 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+164,164 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+164,164 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+164,164 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+164,164 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+165,165 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+165,165 Session 1 Attended,Session 1,29/04/2024,Attended,5,Completed
+165,165 Session 2 Attended,Session 2,06/05/2024,Attended,5,Completed
+165,165 Session 3 DNA,Session 3,13/05/2024,DNA,5,Completed
+165,165 Session 4 Attended,Session 4,20/05/2024,Attended,5,Completed
+165,165 Session 5 Attended,Session 5,27/05/2024,Attended,5,Completed
+165,165 Session 6 Attended,Session 6,03/06/2024,Attended,5,Completed
+166,166 Assessment  Attended,Assessment,22/04/2024,Attended,3,Not completed
+166,166 Session 1 Attended,Session 1,29/04/2024,Attended,3,Not completed
+166,166 Session 2 Attended,Session 2,06/05/2024,Attended,3,Not completed
+166,166 Session 3 Attended,Session 3,13/05/2024,Attended,3,Not completed
+166,166 Session 4 DNA,Session 4,20/05/2024,DNA,3,Not completed
+166,166 Session 5 DNA,Session 5,27/05/2024,DNA,3,Not completed
+166,166 Session 6 DNA,Session 6,03/06/2024,DNA,3,Not completed
+167,167 Assessment  Attended,Assessment,29/04/2024,Attended,2,Not completed
+167,167 Session 1 Attended,Session 1,06/05/2024,Attended,2,Not completed
+167,167 Session 2 Attended,Session 2,13/05/2024,Attended,2,Not completed
+167,167 Session 3 DNA,Session 3,20/05/2024,DNA,2,Not completed
+167,167 Session 4 DNA,Session 4,27/05/2024,DNA,2,Not completed
+167,167 Session 5 DNA,Session 5,03/06/2024,DNA,2,Not completed
+167,167 Session 6 DNA,Session 6,10/06/2024,DNA,2,Not completed
+168,168 Assessment  Attended,Assessment,03/06/2024,Attended,4,Not completed
+168,168 Session 1 Attended,Session 1,10/06/2024,Attended,4,Not completed
+168,168 Session 2 Attended,Session 2,24/06/2024,Attended,4,Not completed
+168,168 Session 3 Attended,Session 3,01/07/2024,Attended,4,Not completed
+168,168 Session 4 DNA,Session 4,08/07/2024,DNA,4,Not completed
+168,168 Session 5 Attended,Session 5,15/07/2024,Attended,4,Not completed
+168,168 Session 6 DNA,Session 6,22/07/2024,DNA,4,Not completed
+169,169 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+169,169 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+169,169 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+169,169 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+169,169 Session 4 DNA,Session 4,01/07/2024,DNA,5,Completed
+169,169 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+169,169 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+170,170 Assessment  Attended,Assessment,20/05/2024,Attended,4,Not completed
+170,170 Session 1 Attended,Session 1,27/05/2024,Attended,4,Not completed
+170,170 Session 2 Attended,Session 2,03/06/2024,Attended,4,Not completed
+170,170 Session 3 Attended,Session 3,10/06/2024,Attended,4,Not completed
+170,170 Session 4 Attended,Session 4,17/06/2024,Attended,4,Not completed
+170,170 Session 5 DNA,Session 5,24/06/2024,DNA,4,Not completed
+170,170 Session 6 DNA,Session 6,01/07/2024,DNA,4,Not completed
+171,171 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+171,171 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+171,171 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+171,171 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+171,171 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+171,171 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+171,171 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+172,172 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+172,172 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+172,172 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+172,172 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+172,172 Session 4 DNA,Session 4,17/06/2024,DNA,5,Completed
+172,172 Session 5 Attended,Session 5,24/06/2024,Attended,5,Completed
+172,172 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+173,173 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+173,173 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+173,173 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+173,173 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+173,173 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+173,173 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+173,173 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+174,174 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+174,174 Session 1 DNA,Session 1,15/04/2024,DNA,5,Completed
+174,174 Session 2 Attended,Session 2,22/04/2024,Attended,5,Completed
+174,174 Session 3 Attended,Session 3,29/04/2024,Attended,5,Completed
+174,174 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+174,174 Session 5 Attended,Session 5,20/05/2024,Attended,5,Completed
+174,174 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+175,175 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+175,175 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+175,175 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+175,175 Session 3 Attended,Session 3,06/05/2024,Attended,6,Completed
+175,175 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+175,175 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+175,175 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+176,176 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+176,176 Session 1 DNA,Session 1,20/05/2024,DNA,5,Completed
+176,176 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+176,176 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+176,176 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+176,176 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+176,176 Session 6 Attended,Session 6,24/06/2024,Attended,5,Completed
+177,177 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+177,177 Session 1 DNA,Session 1,15/04/2024,DNA,5,Completed
+177,177 Session 2 Attended,Session 2,22/04/2024,Attended,5,Completed
+177,177 Session 3 Attended,Session 3,29/04/2024,Attended,5,Completed
+177,177 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+177,177 Session 5 Attended,Session 5,20/05/2024,Attended,5,Completed
+177,177 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+178,178 Assessment  Attended,Assessment,03/06/2024,Attended,4,Part completed
+178,178 Session 1 DNA,Session 1,10/06/2024,DNA,4,Part completed
+178,178 Session 2 Attended,Session 2,17/06/2024,Attended,4,Part completed
+178,178 Session 3 DNA,Session 3,25/06/2024,DNA,4,Part completed
+178,178 Session 4 Attended,Session 4,01/07/2024,Attended,4,Part completed
+178,178 Session 5 Attended,Session 5,08/07/2024,Attended,4,Part completed
+178,178 Session 6 Attended,Session 6,15/07/2024,Attended,4,Part completed
+179,179 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+179,179 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+179,179 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+179,179 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+179,179 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+179,179 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+179,179 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+180,180 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+180,180 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+180,180 Session 2 DNA,Session 2,25/03/2024,DNA,5,Completed
+180,180 Session 3 Attended,Session 3,01/04/2024,Attended,5,Completed
+180,180 Session 4 Attended,Session 4,08/04/2024,Attended,5,Completed
+180,180 Session 5 Attended,Session 5,15/04/2024,Attended,5,Completed
+180,180 Session 6 Attended,Session 6,22/04/2024,Attended,5,Completed
+181,181 Assessment  Attended,Assessment,13/05/2024,Attended,1,Not started
+181,181 Session 1 DNA,Session 1,20/05/2024,DNA,1,Not started
+181,181 Session 2 Attended,Session 2,03/06/2024,Attended,1,Not started
+181,181 Session 3 DNA,Session 3,17/06/2024,DNA,1,Not started
+181,181 Session 4 DNA,Session 4,25/06/2024,DNA,1,Not started
+181,181 Session 5 DNA,Session 5,01/07/2024,DNA,1,Not started
+181,181 Session 6 DNA,Session 6,08/07/2024,DNA,1,Not started
+182,182 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+182,182 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+182,182 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+182,182 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+182,182 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+182,182 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+182,182 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+183,183 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+183,183 Session 1 DNA,Session 1,18/03/2024,DNA,5,Completed
+183,183 Session 2 Attended,Session 2,25/03/2024,Attended,5,Completed
+183,183 Session 3 Attended,Session 3,01/04/2024,Attended,5,Completed
+183,183 Session 4 Attended,Session 4,08/04/2024,Attended,5,Completed
+183,183 Session 5 Attended,Session 5,15/04/2024,Attended,5,Completed
+183,183 Session 6 Attended,Session 6,22/04/2024,Attended,5,Completed
+184,184 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+184,184 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+184,184 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+184,184 Session 3 DNA,Session 3,15/04/2024,DNA,5,Completed
+184,184 Session 4 Attended,Session 4,22/04/2024,Attended,5,Completed
+184,184 Session 5 Attended,Session 5,06/05/2024,Attended,5,Completed
+184,184 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+185,185 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+185,185 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+185,185 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+185,185 Session 3 Attended,Session 3,06/05/2024,Attended,6,Completed
+185,185 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+185,185 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+185,185 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+186,186 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+186,186 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+186,186 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+186,186 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+186,186 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+186,186 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+186,186 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+187,187 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+187,187 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+187,187 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+187,187 Session 3 Attended,Session 3,06/05/2024,Attended,6,Completed
+187,187 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+187,187 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+187,187 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+188,188 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+188,188 Session 1 Attended,Session 1,17/06/2024,Attended,5,Completed
+188,188 Session 2 Attended,Session 2,24/06/2024,Attended,5,Completed
+188,188 Session 3 DNA,Session 3,01/07/2024,DNA,5,Completed
+188,188 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+188,188 Session 5 Attended,Session 5,15/07/2024,Attended,5,Completed
+188,188 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+189,189 Assessment  Attended,Assessment,25/03/2024,Attended,4,Part completed
+189,189 Session 1 Attended,Session 1,01/04/2024,Attended,4,Part completed
+189,189 Session 2 DNA,Session 2,08/04/2024,DNA,4,Part completed
+189,189 Session 3 Attended,Session 3,15/04/2024,Attended,4,Part completed
+189,189 Session 4 DNA,Session 4,22/04/2024,DNA,4,Part completed
+189,189 Session 5 Attended,Session 5,29/04/2024,Attended,4,Part completed
+189,189 Session 6 Attended,Session 6,06/05/2024,Attended,4,Part completed
+190,190 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+190,190 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+190,190 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+190,190 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+190,190 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+190,190 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+190,190 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+191,191 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+191,191 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+191,191 Session 2 DNA,Session 2,08/04/2024,DNA,5,Completed
+191,191 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+191,191 Session 4 Attended,Session 4,22/04/2024,Attended,5,Completed
+191,191 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+191,191 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+192,192 Assessment  Attended,Assessment,27/05/2024,Attended,2,Not completed
+192,192 Session 1 Attended,Session 1,03/06/2024,Attended,2,Not completed
+192,192 Session 2 Attended,Session 2,17/06/2024,Attended,2,Not completed
+192,192 Session 3 DNA,Session 3,24/06/2024,DNA,2,Not completed
+192,192 Session 4 DNA,Session 4,01/07/2024,DNA,2,Not completed
+192,192 Session 5 DNA,Session 5,08/07/2024,DNA,2,Not completed
+192,192 Session 6 DNA,Session 6,15/07/2024,DNA,2,Not completed
+193,193 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+193,193 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+193,193 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+193,193 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+193,193 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+193,193 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+193,193 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+194,194 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+194,194 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+194,194 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+194,194 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+194,194 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+194,194 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+194,194 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+195,195 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+195,195 Session 1 Attended,Session 1,17/06/2024,Attended,5,Completed
+195,195 Session 2 Attended,Session 2,24/06/2024,Attended,5,Completed
+195,195 Session 3 DNA,Session 3,01/07/2024,DNA,5,Completed
+195,195 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+195,195 Session 5 Attended,Session 5,15/07/2024,Attended,5,Completed
+195,195 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+196,196 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+196,196 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+196,196 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+196,196 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+196,196 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+196,196 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+196,196 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+197,197 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+197,197 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+197,197 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+197,197 Session 3 DNA,Session 3,25/06/2024,DNA,5,Completed
+197,197 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+197,197 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+197,197 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+198,198 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+198,198 Session 1 DNA,Session 1,10/06/2024,DNA,5,Completed
+198,198 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+198,198 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+198,198 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+198,198 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+198,198 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+199,199 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+199,199 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+199,199 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+199,199 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+199,199 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+199,199 Session 5 DNA,Session 5,15/07/2024,DNA,5,Completed
+199,199 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+200,200 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+200,200 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+200,200 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+200,200 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+200,200 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+200,200 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+200,200 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+201,201 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+201,201 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+201,201 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+201,201 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+201,201 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+201,201 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+201,201 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+202,202 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+202,202 Session 1 Attended,Session 1,29/04/2024,Attended,5,Completed
+202,202 Session 2 Attended,Session 2,06/05/2024,Attended,5,Completed
+202,202 Session 3 Attended,Session 3,13/05/2024,Attended,5,Completed
+202,202 Session 4 DNA,Session 4,20/05/2024,DNA,5,Completed
+202,202 Session 5 Attended,Session 5,27/05/2024,Attended,5,Completed
+202,202 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+203,203 Assessment  Attended,Assessment,20/05/2024,Attended,0,Not started
+203,203 Session 1 DNA,Session 1,03/06/2024,DNA,0,Not started
+203,203 Session 2 DNA,Session 2,10/06/2024,DNA,0,Not started
+203,203 Session 3 DNA,Session 3,17/06/2024,DNA,0,Not started
+203,203 Session 4 DNA,Session 4,24/06/2024,DNA,0,Not started
+203,203 Session 5 DNA,Session 5,01/07/2024,DNA,0,Not started
+203,203 Session 6 DNA,Session 6,08/07/2024,DNA,0,Not started
+204,204 Assessment  Attended,Assessment,08/04/2024,Attended,4,Part completed
+204,204 Session 1 Attended,Session 1,22/04/2024,Attended,4,Part completed
+204,204 Session 2 DNA,Session 2,29/04/2024,DNA,4,Part completed
+204,204 Session 3 Attended,Session 3,13/05/2024,Attended,4,Part completed
+204,204 Session 4 Attended,Session 4,20/05/2024,Attended,4,Part completed
+204,204 Session 5 DNA,Session 5,27/05/2024,DNA,4,Part completed
+204,204 Session 6 Attended,Session 6,03/06/2024,Attended,4,Part completed
+205,205 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+205,205 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+205,205 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+205,205 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+205,205 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+205,205 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+205,205 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+206,206 Assessment  Attended,Assessment,08/04/2024,Attended,4,Part completed
+206,206 Session 1 Attended,Session 1,15/04/2024,Attended,4,Part completed
+206,206 Session 2 DNA,Session 2,22/04/2024,DNA,4,Part completed
+206,206 Session 3 Attended,Session 3,13/05/2024,Attended,4,Part completed
+206,206 Session 4 DNA,Session 4,20/05/2024,DNA,4,Part completed
+206,206 Session 5 Attended,Session 5,27/05/2024,Attended,4,Part completed
+206,206 Session 6 Attended,Session 6,03/06/2024,Attended,4,Part completed
+207,207 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+207,207 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+207,207 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+207,207 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+207,207 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+207,207 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+207,207 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+208,208 Assessment  Attended,Assessment,22/04/2024,Attended,4,Part completed
+208,208 Session 1 Attended,Session 1,06/05/2024,Attended,4,Part completed
+208,208 Session 2 DNA,Session 2,13/05/2024,DNA,4,Part completed
+208,208 Session 3 DNA,Session 3,20/05/2024,DNA,4,Part completed
+208,208 Session 4 Attended,Session 4,27/05/2024,Attended,4,Part completed
+208,208 Session 5 Attended,Session 5,03/06/2024,Attended,4,Part completed
+208,208 Session 6 Attended,Session 6,10/06/2024,Attended,4,Part completed
+209,209 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+209,209 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+209,209 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+209,209 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+209,209 Session 4 Attended,Session 4,17/06/2024,Attended,5,Completed
+209,209 Session 5 DNA,Session 5,24/06/2024,DNA,5,Completed
+209,209 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+210,210 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+210,210 Session 1 Attended,Session 1,20/05/2024,Attended,5,Completed
+210,210 Session 2 DNA,Session 2,27/05/2024,DNA,5,Completed
+210,210 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+210,210 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+210,210 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+210,210 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+211,211 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+211,211 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+211,211 Session 2 DNA,Session 2,10/06/2024,DNA,5,Completed
+211,211 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+211,211 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+211,211 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+211,211 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+212,212 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+212,212 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+212,212 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+212,212 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+212,212 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+212,212 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+212,212 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+213,213 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+213,213 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+213,213 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+213,213 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+213,213 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+213,213 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+213,213 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+214,214 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+214,214 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+214,214 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+214,214 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+214,214 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+214,214 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+214,214 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+215,215 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+215,215 Session 1 DNA,Session 1,03/06/2024,DNA,5,Completed
+215,215 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+215,215 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+215,215 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+215,215 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+215,215 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+216,216 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+216,216 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+216,216 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+216,216 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+216,216 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+216,216 Session 5 DNA,Session 5,01/07/2024,DNA,5,Completed
+216,216 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+217,217 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+217,217 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+217,217 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+217,217 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+217,217 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+217,217 Session 5 DNA,Session 5,08/07/2024,DNA,5,Completed
+217,217 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+218,218 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+218,218 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+218,218 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+218,218 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+218,218 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+218,218 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+218,218 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+219,219 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+219,219 Session 1 DNA,Session 1,20/05/2024,DNA,5,Completed
+219,219 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+219,219 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+219,219 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+219,219 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+219,219 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+220,220 Assessment  Attended,Assessment,27/05/2024,Attended,1,Not started
+220,220 Session 1 Attended,Session 1,10/06/2024,Attended,1,Not started
+220,220 Session 2 DNA,Session 2,17/06/2024,DNA,1,Not started
+220,220 Session 3 DNA,Session 3,24/06/2024,DNA,1,Not started
+220,220 Session 4 DNA,Session 4,01/07/2024,DNA,1,Not started
+220,220 Session 5 DNA,Session 5,08/07/2024,DNA,1,Not started
+220,220 Session 6 DNA,Session 6,15/07/2024,DNA,1,Not started
+221,221 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+221,221 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+221,221 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+221,221 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+221,221 Session 4 DNA,Session 4,01/07/2024,DNA,5,Completed
+221,221 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+221,221 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+222,222 Assessment  Attended,Assessment,20/05/2024,Attended,0,Not started
+222,222 Session 1 DNA,Session 1,27/05/2024,DNA,0,Not started
+222,222 Session 2 DNA,Session 2,03/06/2024,DNA,0,Not started
+222,222 Session 3 DNA,Session 3,10/06/2024,DNA,0,Not started
+222,222 Session 4 DNA,Session 4,17/06/2024,DNA,0,Not started
+222,222 Session 5 DNA,Session 5,24/06/2024,DNA,0,Not started
+222,222 Session 6 DNA,Session 6,01/07/2024,DNA,0,Not started
+223,223 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+223,223 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+223,223 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+223,223 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+223,223 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+223,223 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+223,223 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+224,224 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+224,224 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+224,224 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+224,224 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+224,224 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+224,224 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+224,224 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+225,225 Assessment  Attended,Assessment,03/06/2024,Attended,4,Not completed
+225,225 Session 1 Attended,Session 1,10/06/2024,Attended,4,Not completed
+225,225 Session 2 Attended,Session 2,17/06/2024,Attended,4,Not completed
+225,225 Session 3 DNA,Session 3,25/06/2024,DNA,4,Not completed
+225,225 Session 4 Attended,Session 4,01/07/2024,Attended,4,Not completed
+225,225 Session 5 Attended,Session 5,08/07/2024,Attended,4,Not completed
+225,225 Session 6 DNA,Session 6,15/07/2024,DNA,4,Not completed
+226,226 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+226,226 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+226,226 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+226,226 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+226,226 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+226,226 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+226,226 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+227,227 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+227,227 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+227,227 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+227,227 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+227,227 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+227,227 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+227,227 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+228,228 Assessment  Attended,Assessment,03/06/2024,Attended,1,Not started
+228,228 Session 1 Attended,Session 1,10/06/2024,Attended,1,Not started
+228,228 Session 2 DNA,Session 2,17/06/2024,DNA,1,Not started
+228,228 Session 3 DNA,Session 3,24/06/2024,DNA,1,Not started
+228,228 Session 4 DNA,Session 4,01/07/2024,DNA,1,Not started
+228,228 Session 5 DNA,Session 5,08/07/2024,DNA,1,Not started
+228,228 Session 6 DNA,Session 6,15/07/2024,DNA,1,Not started
+229,229 Assessment  Attended,Assessment,25/03/2024,Attended,4,Not completed
+229,229 Session 1 Attended,Session 1,01/04/2024,Attended,4,Not completed
+229,229 Session 2 Attended,Session 2,15/04/2024,Attended,4,Not completed
+229,229 Session 3 DNA,Session 3,22/04/2024,DNA,4,Not completed
+229,229 Session 4 Attended,Session 4,29/04/2024,Attended,4,Not completed
+229,229 Session 5 Attended,Session 5,13/05/2024,Attended,4,Not completed
+229,229 Session 6 DNA,Session 6,20/05/2024,DNA,4,Not completed
+230,230 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+230,230 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+230,230 Session 2 DNA,Session 2,03/06/2024,DNA,5,Completed
+230,230 Session 3 Attended,Session 3,10/06/2024,Attended,5,Completed
+230,230 Session 4 Attended,Session 4,17/06/2024,Attended,5,Completed
+230,230 Session 5 Attended,Session 5,24/06/2024,Attended,5,Completed
+230,230 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+231,231 Assessment  Attended,Assessment,27/05/2024,Attended,0,Not started
+231,231 Session 1 DNA,Session 1,03/06/2024,DNA,0,Not started
+231,231 Session 2 DNA,Session 2,10/06/2024,DNA,0,Not started
+231,231 Session 3 DNA,Session 3,17/06/2024,DNA,0,Not started
+231,231 Session 4 DNA,Session 4,24/06/2024,DNA,0,Not started
+231,231 Session 5 DNA,Session 5,01/07/2024,DNA,0,Not started
+231,231 Session 6 DNA,Session 6,08/07/2024,DNA,0,Not started
+232,232 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+232,232 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+232,232 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+232,232 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+232,232 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+232,232 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+232,232 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+233,233 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+233,233 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+233,233 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+233,233 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+233,233 Session 4 DNA,Session 4,22/04/2024,DNA,5,Completed
+233,233 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+233,233 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+234,234 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+234,234 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+234,234 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+234,234 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+234,234 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+234,234 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+234,234 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+235,235 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+235,235 Session 1 DNA,Session 1,15/04/2024,DNA,5,Completed
+235,235 Session 2 Attended,Session 2,29/04/2024,Attended,5,Completed
+235,235 Session 3 Attended,Session 3,06/05/2024,Attended,5,Completed
+235,235 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+235,235 Session 5 Attended,Session 5,20/05/2024,Attended,5,Completed
+235,235 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+236,236 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+236,236 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+236,236 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+236,236 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+236,236 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+236,236 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+236,236 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+237,237 Assessment  Attended,Assessment,03/06/2024,Attended,5,Not completed
+237,237 Session 1 Attended,Session 1,10/06/2024,Attended,5,Not completed
+237,237 Session 2 Attended,Session 2,17/06/2024,Attended,5,Not completed
+237,237 Session 3 Attended,Session 3,24/06/2024,Attended,5,Not completed
+237,237 Session 4 Attended,Session 4,08/07/2024,Attended,5,Not completed
+237,237 Session 5 Attended,Session 5,15/07/2024,Attended,5,Not completed
+237,237 Session 6 DNA,Session 6,22/07/2024,DNA,5,Not completed
+238,238 Assessment  Attended,Assessment,25/03/2024,Attended,2,Not completed
+238,238 Session 1 Attended,Session 1,01/04/2024,Attended,2,Not completed
+238,238 Session 2 Attended,Session 2,15/04/2024,Attended,2,Not completed
+238,238 Session 3 DNA,Session 3,29/04/2024,DNA,2,Not completed
+238,238 Session 4 DNA,Session 4,06/05/2024,DNA,2,Not completed
+238,238 Session 5 DNA,Session 5,13/05/2024,DNA,2,Not completed
+238,238 Session 6 DNA,Session 6,20/05/2024,DNA,2,Not completed
+239,239 Assessment  Attended,Assessment,06/05/2024,Attended,4,Part completed
+239,239 Session 1 Attended,Session 1,13/05/2024,Attended,4,Part completed
+239,239 Session 2 DNA,Session 2,20/05/2024,DNA,4,Part completed
+239,239 Session 3 Attended,Session 3,27/05/2024,Attended,4,Part completed
+239,239 Session 4 DNA,Session 4,03/06/2024,DNA,4,Part completed
+239,239 Session 5 Attended,Session 5,10/06/2024,Attended,4,Part completed
+239,239 Session 6 Attended,Session 6,24/06/2024,Attended,4,Part completed
+240,240 Assessment  Attended,Assessment,03/06/2024,Attended,3,Not completed
+240,240 Session 1 Attended,Session 1,10/06/2024,Attended,3,Not completed
+240,240 Session 2 DNA,Session 2,17/06/2024,DNA,3,Not completed
+240,240 Session 3 Attended,Session 3,24/06/2024,Attended,3,Not completed
+240,240 Session 4 DNA,Session 4,01/07/2024,DNA,3,Not completed
+240,240 Session 5 Attended,Session 5,08/07/2024,Attended,3,Not completed
+240,240 Session 6 DNA,Session 6,15/07/2024,DNA,3,Not completed
+241,241 Assessment  Attended,Assessment,22/04/2024,Attended,1,Not started
+241,241 Session 1 Attended,Session 1,06/05/2024,Attended,1,Not started
+241,241 Session 2 DNA,Session 2,13/05/2024,DNA,1,Not started
+241,241 Session 3 DNA,Session 3,20/05/2024,DNA,1,Not started
+241,241 Session 4 DNA,Session 4,27/05/2024,DNA,1,Not started
+241,241 Session 5 DNA,Session 5,03/06/2024,DNA,1,Not started
+241,241 Session 6 DNA,Session 6,10/06/2024,DNA,1,Not started
+242,242 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+242,242 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+242,242 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+242,242 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+242,242 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+242,242 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+242,242 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+243,243 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+243,243 Session 1 Attended,Session 1,17/06/2024,Attended,5,Completed
+243,243 Session 2 Attended,Session 2,24/06/2024,Attended,5,Completed
+243,243 Session 3 DNA,Session 3,01/07/2024,DNA,5,Completed
+243,243 Session 4 Attended,Session 4,08/07/2024,Attended,5,Completed
+243,243 Session 5 Attended,Session 5,15/07/2024,Attended,5,Completed
+243,243 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+244,244 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+244,244 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+244,244 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+244,244 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+244,244 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+244,244 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+244,244 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+245,245 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+245,245 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+245,245 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+245,245 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+245,245 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+245,245 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+245,245 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+246,246 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+246,246 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+246,246 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+246,246 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+246,246 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+246,246 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+246,246 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+247,247 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+247,247 Session 1 Attended,Session 1,27/05/2024,Attended,5,Completed
+247,247 Session 2 Attended,Session 2,03/06/2024,Attended,5,Completed
+247,247 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+247,247 Session 4 DNA,Session 4,25/06/2024,DNA,5,Completed
+247,247 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+247,247 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+248,248 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+248,248 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+248,248 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+248,248 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+248,248 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+248,248 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+248,248 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+249,249 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+249,249 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+249,249 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+249,249 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+249,249 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+249,249 Session 5 Attended,Session 5,01/07/2024,Attended,6,Completed
+249,249 Session 6 Attended,Session 6,08/07/2024,Attended,6,Completed
+250,250 Assessment  Attended,Assessment,03/06/2024,Attended,0,Not started
+250,250 Session 1 DNA,Session 1,10/06/2024,DNA,0,Not started
+250,250 Session 2 DNA,Session 2,17/06/2024,DNA,0,Not started
+250,250 Session 3 DNA,Session 3,24/06/2024,DNA,0,Not started
+250,250 Session 4 DNA,Session 4,01/07/2024,DNA,0,Not started
+250,250 Session 5 DNA,Session 5,08/07/2024,DNA,0,Not started
+250,250 Session 6 DNA,Session 6,15/07/2024,DNA,0,Not started
+251,251 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+251,251 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+251,251 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+251,251 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+251,251 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+251,251 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+251,251 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+252,252 Assessment  Attended,Assessment,03/06/2024,Attended,1,Not started
+252,252 Session 1 Attended,Session 1,10/06/2024,Attended,1,Not started
+252,252 Session 2 DNA,Session 2,17/06/2024,DNA,1,Not started
+252,252 Session 3 DNA,Session 3,24/06/2024,DNA,1,Not started
+252,252 Session 4 DNA,Session 4,01/07/2024,DNA,1,Not started
+252,252 Session 5 DNA,Session 5,08/07/2024,DNA,1,Not started
+252,252 Session 6 DNA,Session 6,15/07/2024,DNA,1,Not started
+253,253 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+253,253 Session 1 Attended,Session 1,22/04/2024,Attended,6,Completed
+253,253 Session 2 Attended,Session 2,29/04/2024,Attended,6,Completed
+253,253 Session 3 Attended,Session 3,06/05/2024,Attended,6,Completed
+253,253 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+253,253 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+253,253 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+254,254 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+254,254 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+254,254 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+254,254 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+254,254 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+254,254 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+254,254 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+255,255 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+255,255 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+255,255 Session 2 Attended,Session 2,17/06/2024,Attended,5,Completed
+255,255 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+255,255 Session 4 DNA,Session 4,01/07/2024,DNA,5,Completed
+255,255 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+255,255 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+256,256 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+256,256 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+256,256 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+256,256 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+256,256 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+256,256 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+256,256 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+257,257 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+257,257 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+257,257 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+257,257 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+257,257 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+257,257 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+257,257 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+258,258 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+258,258 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+258,258 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+258,258 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+258,258 Session 4 Attended,Session 4,06/05/2024,Attended,6,Completed
+258,258 Session 5 Attended,Session 5,13/05/2024,Attended,6,Completed
+258,258 Session 6 Attended,Session 6,20/05/2024,Attended,6,Completed
+259,259 Assessment  Attended,Assessment,20/05/2024,Attended,6,Completed
+259,259 Session 1 Attended,Session 1,27/05/2024,Attended,6,Completed
+259,259 Session 2 Attended,Session 2,03/06/2024,Attended,6,Completed
+259,259 Session 3 Attended,Session 3,10/06/2024,Attended,6,Completed
+259,259 Session 4 Attended,Session 4,17/06/2024,Attended,6,Completed
+259,259 Session 5 Attended,Session 5,24/06/2024,Attended,6,Completed
+259,259 Session 6 Attended,Session 6,01/07/2024,Attended,6,Completed
+260,260 Assessment  Attended,Assessment,13/05/2024,Attended,0,Not started
+260,260 Session 1 DNA,Session 1,20/05/2024,DNA,0,Not started
+260,260 Session 2 DNA,Session 2,27/05/2024,DNA,0,Not started
+260,260 Session 3 DNA,Session 3,03/06/2024,DNA,0,Not started
+260,260 Session 4 DNA,Session 4,10/06/2024,DNA,0,Not started
+260,260 Session 5 DNA,Session 5,17/06/2024,DNA,0,Not started
+260,260 Session 6 DNA,Session 6,24/06/2024,DNA,0,Not started
+261,261 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+261,261 Session 1 Attended,Session 1,20/05/2024,Attended,5,Completed
+261,261 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+261,261 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+261,261 Session 4 DNA,Session 4,10/06/2024,DNA,5,Completed
+261,261 Session 5 Attended,Session 5,17/06/2024,Attended,5,Completed
+261,261 Session 6 Attended,Session 6,25/06/2024,Attended,5,Completed
+262,262 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+262,262 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+262,262 Session 2 DNA,Session 2,17/06/2024,DNA,5,Completed
+262,262 Session 3 Attended,Session 3,24/06/2024,Attended,5,Completed
+262,262 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+262,262 Session 5 Attended,Session 5,08/07/2024,Attended,5,Completed
+262,262 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+263,263 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+263,263 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+263,263 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+263,263 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+263,263 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+263,263 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+263,263 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+264,264 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+264,264 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+264,264 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+264,264 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+264,264 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+264,264 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+264,264 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+265,265 Assessment  Attended,Assessment,03/06/2024,Attended,6,Completed
+265,265 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+265,265 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+265,265 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+265,265 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+265,265 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+265,265 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+266,266 Assessment  Attended,Assessment,06/05/2024,Attended,1,Not started
+266,266 Session 1 Attended,Session 1,13/05/2024,Attended,1,Not started
+266,266 Session 2 DNA,Session 2,20/05/2024,DNA,1,Not started
+266,266 Session 3 DNA,Session 3,27/05/2024,DNA,1,Not started
+266,266 Session 4 DNA,Session 4,03/06/2024,DNA,1,Not started
+266,266 Session 5 DNA,Session 5,10/06/2024,DNA,1,Not started
+266,266 Session 6 DNA,Session 6,17/06/2024,DNA,1,Not started
+267,267 Assessment  Attended,Assessment,03/06/2024,Attended,5,Completed
+267,267 Session 1 Attended,Session 1,10/06/2024,Attended,5,Completed
+267,267 Session 2 Attended,Session 2,24/06/2024,Attended,5,Completed
+267,267 Session 3 Attended,Session 3,01/07/2024,Attended,5,Completed
+267,267 Session 4 DNA,Session 4,08/07/2024,DNA,5,Completed
+267,267 Session 5 Attended,Session 5,15/07/2024,Attended,5,Completed
+267,267 Session 6 Attended,Session 6,22/07/2024,Attended,5,Completed
+268,268 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+268,268 Session 1 Attended,Session 1,13/05/2024,Attended,5,Completed
+268,268 Session 2 DNA,Session 2,20/05/2024,DNA,5,Completed
+268,268 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+268,268 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+268,268 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+268,268 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+269,269 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+269,269 Session 1 Attended,Session 1,15/04/2024,Attended,5,Completed
+269,269 Session 2 Attended,Session 2,22/04/2024,Attended,5,Completed
+269,269 Session 3 Attended,Session 3,29/04/2024,Attended,5,Completed
+269,269 Session 4 DNA,Session 4,20/05/2024,DNA,5,Completed
+269,269 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+269,269 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+270,270 Assessment  Attended,Assessment,22/04/2024,Attended,1,Not started
+270,270 Session 1 Attended,Session 1,06/05/2024,Attended,1,Not started
+270,270 Session 2 DNA,Session 2,13/05/2024,DNA,1,Not started
+270,270 Session 3 DNA,Session 3,20/05/2024,DNA,1,Not started
+270,270 Session 4 DNA,Session 4,27/05/2024,DNA,1,Not started
+270,270 Session 5 DNA,Session 5,03/06/2024,DNA,1,Not started
+270,270 Session 6 DNA,Session 6,10/06/2024,DNA,1,Not started
+271,271 Assessment  Attended,Assessment,22/04/2024,Attended,4,Part completed
+271,271 Session 1 DNA,Session 1,06/05/2024,DNA,4,Part completed
+271,271 Session 2 Attended,Session 2,13/05/2024,Attended,4,Part completed
+271,271 Session 3 DNA,Session 3,20/05/2024,DNA,4,Part completed
+271,271 Session 4 Attended,Session 4,27/05/2024,Attended,4,Part completed
+271,271 Session 5 Attended,Session 5,03/06/2024,Attended,4,Part completed
+271,271 Session 6 Attended,Session 6,10/06/2024,Attended,4,Part completed
+272,272 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+272,272 Session 1 DNA,Session 1,29/04/2024,DNA,5,Completed
+272,272 Session 2 Attended,Session 2,06/05/2024,Attended,5,Completed
+272,272 Session 3 Attended,Session 3,13/05/2024,Attended,5,Completed
+272,272 Session 4 Attended,Session 4,20/05/2024,Attended,5,Completed
+272,272 Session 5 Attended,Session 5,27/05/2024,Attended,5,Completed
+272,272 Session 6 Attended,Session 6,03/06/2024,Attended,5,Completed
+273,273 Assessment  Attended,Assessment,22/04/2024,Attended,4,Part completed
+273,273 Session 1 DNA,Session 1,29/04/2024,DNA,4,Part completed
+273,273 Session 2 Attended,Session 2,06/05/2024,Attended,4,Part completed
+273,273 Session 3 DNA,Session 3,13/05/2024,DNA,4,Part completed
+273,273 Session 4 Attended,Session 4,20/05/2024,Attended,4,Part completed
+273,273 Session 5 Attended,Session 5,27/05/2024,Attended,4,Part completed
+273,273 Session 6 Attended,Session 6,03/06/2024,Attended,4,Part completed
+274,274 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+274,274 Session 1 DNA,Session 1,06/05/2024,DNA,5,Completed
+274,274 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+274,274 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+274,274 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+274,274 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+274,274 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+275,275 Assessment  Attended,Assessment,08/04/2024,Attended,4,Part completed
+275,275 Session 1 Attended,Session 1,15/04/2024,Attended,4,Part completed
+275,275 Session 2 DNA,Session 2,22/04/2024,DNA,4,Part completed
+275,275 Session 3 Attended,Session 3,29/04/2024,Attended,4,Part completed
+275,275 Session 4 Attended,Session 4,20/05/2024,Attended,4,Part completed
+275,275 Session 5 DNA,Session 5,27/05/2024,DNA,4,Part completed
+275,275 Session 6 Attended,Session 6,03/06/2024,Attended,4,Part completed
+276,276 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+276,276 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+276,276 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+276,276 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+276,276 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+276,276 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+276,276 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+277,277 Assessment  Attended,Assessment,03/06/2024,Attended,0,Not started
+277,277 Session 1 DNA,Session 1,10/06/2024,DNA,0,Not started
+277,277 Session 2 DNA,Session 2,17/06/2024,DNA,0,Not started
+277,277 Session 3 DNA,Session 3,24/06/2024,DNA,0,Not started
+277,277 Session 4 DNA,Session 4,01/07/2024,DNA,0,Not started
+277,277 Session 5 DNA,Session 5,08/07/2024,DNA,0,Not started
+277,277 Session 6 DNA,Session 6,15/07/2024,DNA,0,Not started
+278,278 Assessment  Attended,Assessment,20/05/2024,Attended,5,Completed
+278,278 Session 1 DNA,Session 1,27/05/2024,DNA,5,Completed
+278,278 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+278,278 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+278,278 Session 4 Attended,Session 4,24/06/2024,Attended,5,Completed
+278,278 Session 5 Attended,Session 5,01/07/2024,Attended,5,Completed
+278,278 Session 6 Attended,Session 6,08/07/2024,Attended,5,Completed
+279,279 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+279,279 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+279,279 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+279,279 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+279,279 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+279,279 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+279,279 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+280,280 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+280,280 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+280,280 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+280,280 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+280,280 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+280,280 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+280,280 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+281,281 Assessment  Attended,Assessment,11/03/2024,Attended,5,Completed
+281,281 Session 1 Attended,Session 1,18/03/2024,Attended,5,Completed
+281,281 Session 2 Attended,Session 2,25/03/2024,Attended,5,Completed
+281,281 Session 3 Attended,Session 3,08/04/2024,Attended,5,Completed
+281,281 Session 4 DNA,Session 4,15/04/2024,DNA,5,Completed
+281,281 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+281,281 Session 6 Attended,Session 6,13/05/2024,Attended,5,Completed
+282,282 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+282,282 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+282,282 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+282,282 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+282,282 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+282,282 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+282,282 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+283,283 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+283,283 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+283,283 Session 2 Attended,Session 2,29/04/2024,Attended,6,Completed
+283,283 Session 3 Attended,Session 3,06/05/2024,Attended,6,Completed
+283,283 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+283,283 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+283,283 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+284,284 Assessment  Attended,Assessment,25/03/2024,Attended,3,Part completed
+284,284 Session 1 DNA,Session 1,08/04/2024,DNA,3,Part completed
+284,284 Session 2 DNA,Session 2,15/04/2024,DNA,3,Part completed
+284,284 Session 3 DNA,Session 3,29/04/2024,DNA,3,Part completed
+284,284 Session 4 Attended,Session 4,06/05/2024,Attended,3,Part completed
+284,284 Session 5 Attended,Session 5,13/05/2024,Attended,3,Part completed
+284,284 Session 6 Attended,Session 6,20/05/2024,Attended,3,Part completed
+285,285 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+285,285 Session 1 Attended,Session 1,13/05/2024,Attended,5,Completed
+285,285 Session 2 Attended,Session 2,20/05/2024,Attended,5,Completed
+285,285 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+285,285 Session 4 DNA,Session 4,03/06/2024,DNA,5,Completed
+285,285 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+285,285 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+286,286 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+286,286 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+286,286 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+286,286 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+286,286 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+286,286 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+286,286 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+287,287 Assessment  Attended,Assessment,03/06/2024,Attended,4,Not completed
+287,287 Session 1 Attended,Session 1,10/06/2024,Attended,4,Not completed
+287,287 Session 2 Attended,Session 2,17/06/2024,Attended,4,Not completed
+287,287 Session 3 Attended,Session 3,24/06/2024,Attended,4,Not completed
+287,287 Session 4 DNA,Session 4,01/07/2024,DNA,4,Not completed
+287,287 Session 5 Attended,Session 5,08/07/2024,Attended,4,Not completed
+287,287 Session 6 DNA,Session 6,15/07/2024,DNA,4,Not completed
+288,288 Assessment  Attended,Assessment,29/04/2024,Attended,2,Not completed
+288,288 Session 1 Attended,Session 1,06/05/2024,Attended,2,Not completed
+288,288 Session 2 Attended,Session 2,13/05/2024,Attended,2,Not completed
+288,288 Session 3 DNA,Session 3,20/05/2024,DNA,2,Not completed
+288,288 Session 4 DNA,Session 4,27/05/2024,DNA,2,Not completed
+288,288 Session 5 DNA,Session 5,03/06/2024,DNA,2,Not completed
+288,288 Session 6 DNA,Session 6,10/06/2024,DNA,2,Not completed
+289,289 Assessment  Attended,Assessment,06/05/2024,Attended,1,Not started
+289,289 Session 1 DNA,Session 1,13/05/2024,DNA,1,Not started
+289,289 Session 2 Attended,Session 2,20/05/2024,Attended,1,Not started
+289,289 Session 3 DNA,Session 3,27/05/2024,DNA,1,Not started
+289,289 Session 4 DNA,Session 4,03/06/2024,DNA,1,Not started
+289,289 Session 5 DNA,Session 5,10/06/2024,DNA,1,Not started
+289,289 Session 6 DNA,Session 6,17/06/2024,DNA,1,Not started
+290,290 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+290,290 Session 1 Attended,Session 1,03/06/2024,Attended,6,Completed
+290,290 Session 2 Attended,Session 2,10/06/2024,Attended,6,Completed
+290,290 Session 3 Attended,Session 3,17/06/2024,Attended,6,Completed
+290,290 Session 4 Attended,Session 4,24/06/2024,Attended,6,Completed
+290,290 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+290,290 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+291,291 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+291,291 Session 1 Attended,Session 1,15/04/2024,Attended,5,Completed
+291,291 Session 2 Attended,Session 2,22/04/2024,Attended,5,Completed
+291,291 Session 3 Attended,Session 3,29/04/2024,Attended,5,Completed
+291,291 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+291,291 Session 5 DNA,Session 5,20/05/2024,DNA,5,Completed
+291,291 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+292,292 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+292,292 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+292,292 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+292,292 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+292,292 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+292,292 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+292,292 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+293,293 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+293,293 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+293,293 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+293,293 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+293,293 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+293,293 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+293,293 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+294,294 Assessment  Attended,Assessment,27/05/2024,Attended,6,Completed
+294,294 Session 1 Attended,Session 1,10/06/2024,Attended,6,Completed
+294,294 Session 2 Attended,Session 2,17/06/2024,Attended,6,Completed
+294,294 Session 3 Attended,Session 3,24/06/2024,Attended,6,Completed
+294,294 Session 4 Attended,Session 4,01/07/2024,Attended,6,Completed
+294,294 Session 5 Attended,Session 5,08/07/2024,Attended,6,Completed
+294,294 Session 6 Attended,Session 6,15/07/2024,Attended,6,Completed
+295,295 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+295,295 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+295,295 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+295,295 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+295,295 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+295,295 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+295,295 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+296,296 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+296,296 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+296,296 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+296,296 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+296,296 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+296,296 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+296,296 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+297,297 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+297,297 Session 1 Attended,Session 1,13/05/2024,Attended,5,Completed
+297,297 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+297,297 Session 3 Attended,Session 3,03/06/2024,Attended,5,Completed
+297,297 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+297,297 Session 5 DNA,Session 5,17/06/2024,DNA,5,Completed
+297,297 Session 6 Attended,Session 6,25/06/2024,Attended,5,Completed
+298,298 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+298,298 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+298,298 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+298,298 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+298,298 Session 4 DNA,Session 4,22/04/2024,DNA,5,Completed
+298,298 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+298,298 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+299,299 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+299,299 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+299,299 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+299,299 Session 3 Attended,Session 3,18/03/2024,Attended,5,Completed
+299,299 Session 4 Attended,Session 4,25/03/2024,Attended,5,Completed
+299,299 Session 5 DNA,Session 5,01/04/2024,DNA,5,Completed
+299,299 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+300,300 Assessment  Attended,Assessment,11/03/2024,Attended,4,Part completed
+300,300 Session 1 Attended,Session 1,18/03/2024,Attended,4,Part completed
+300,300 Session 2 DNA,Session 2,25/03/2024,DNA,4,Part completed
+300,300 Session 3 Attended,Session 3,08/04/2024,Attended,4,Part completed
+300,300 Session 4 DNA,Session 4,15/04/2024,DNA,4,Part completed
+300,300 Session 5 Attended,Session 5,22/04/2024,Attended,4,Part completed
+300,300 Session 6 Attended,Session 6,29/04/2024,Attended,4,Part completed
+301,301 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+301,301 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+301,301 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+301,301 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+301,301 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+301,301 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+301,301 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+302,302 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+302,302 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+302,302 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+302,302 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+302,302 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+302,302 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+302,302 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+303,303 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+303,303 Session 1 Attended,Session 1,12/02/2024,Attended,5,Completed
+303,303 Session 2 DNA,Session 2,19/02/2024,DNA,5,Completed
+303,303 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+303,303 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+303,303 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+303,303 Session 6 Attended,Session 6,25/03/2024,Attended,5,Completed
+304,304 Assessment  Attended,Assessment,25/03/2024,Attended,5,Completed
+304,304 Session 1 Attended,Session 1,01/04/2024,Attended,5,Completed
+304,304 Session 2 Attended,Session 2,08/04/2024,Attended,5,Completed
+304,304 Session 3 Attended,Session 3,15/04/2024,Attended,5,Completed
+304,304 Session 4 DNA,Session 4,22/04/2024,DNA,5,Completed
+304,304 Session 5 Attended,Session 5,29/04/2024,Attended,5,Completed
+304,304 Session 6 Attended,Session 6,06/05/2024,Attended,5,Completed
+305,305 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+305,305 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+305,305 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+305,305 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+305,305 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+305,305 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+305,305 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+306,306 Assessment  Attended,Assessment,27/05/2024,Attended,5,Completed
+306,306 Session 1 Attended,Session 1,03/06/2024,Attended,5,Completed
+306,306 Session 2 Attended,Session 2,10/06/2024,Attended,5,Completed
+306,306 Session 3 Attended,Session 3,17/06/2024,Attended,5,Completed
+306,306 Session 4 Attended,Session 4,01/07/2024,Attended,5,Completed
+306,306 Session 5 DNA,Session 5,08/07/2024,DNA,5,Completed
+306,306 Session 6 Attended,Session 6,15/07/2024,Attended,5,Completed
+307,307 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+307,307 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+307,307 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+307,307 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+307,307 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+307,307 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+307,307 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+308,308 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+308,308 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+308,308 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+308,308 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+308,308 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+308,308 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+308,308 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+309,309 Assessment  Attended,Assessment,20/05/2024,Attended,4,Part completed
+309,309 Session 1 DNA,Session 1,27/05/2024,DNA,4,Part completed
+309,309 Session 2 DNA,Session 2,03/06/2024,DNA,4,Part completed
+309,309 Session 3 Attended,Session 3,10/06/2024,Attended,4,Part completed
+309,309 Session 4 Attended,Session 4,24/06/2024,Attended,4,Part completed
+309,309 Session 5 Attended,Session 5,08/07/2024,Attended,4,Part completed
+309,309 Session 6 Attended,Session 6,15/07/2024,Attended,4,Part completed
+310,310 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+310,310 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+310,310 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+310,310 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+310,310 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+310,310 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+310,310 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+311,311 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+311,311 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+311,311 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+311,311 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+311,311 Session 4 DNA,Session 4,27/05/2024,DNA,5,Completed
+311,311 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+311,311 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+312,312 Assessment  Attended,Assessment,13/05/2024,Attended,6,Completed
+312,312 Session 1 Attended,Session 1,20/05/2024,Attended,6,Completed
+312,312 Session 2 Attended,Session 2,27/05/2024,Attended,6,Completed
+312,312 Session 3 Attended,Session 3,03/06/2024,Attended,6,Completed
+312,312 Session 4 Attended,Session 4,10/06/2024,Attended,6,Completed
+312,312 Session 5 Attended,Session 5,17/06/2024,Attended,6,Completed
+312,312 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+313,313 Assessment  Attended,Assessment,26/02/2024,Attended,3,Not completed
+313,313 Session 1 Attended,Session 1,04/03/2024,Attended,3,Not completed
+313,313 Session 2 Attended,Session 2,11/03/2024,Attended,3,Not completed
+313,313 Session 3 Attended,Session 3,18/03/2024,Attended,3,Not completed
+313,313 Session 4 DNA,Session 4,25/03/2024,DNA,3,Not completed
+313,313 Session 5 DNA,Session 5,01/04/2024,DNA,3,Not completed
+313,313 Session 6 DNA,Session 6,08/04/2024,DNA,3,Not completed
+314,314 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+314,314 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+314,314 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+314,314 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+314,314 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+314,314 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+314,314 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+315,315 Assessment  Attended,Assessment,05/02/2024,Attended,6,Completed
+315,315 Session 1 Attended,Session 1,12/02/2024,Attended,6,Completed
+315,315 Session 2 Attended,Session 2,19/02/2024,Attended,6,Completed
+315,315 Session 3 Attended,Session 3,04/03/2024,Attended,6,Completed
+315,315 Session 4 Attended,Session 4,11/03/2024,Attended,6,Completed
+315,315 Session 5 Attended,Session 5,18/03/2024,Attended,6,Completed
+315,315 Session 6 Attended,Session 6,25/03/2024,Attended,6,Completed
+316,316 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+316,316 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+316,316 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+316,316 Session 3 Attended,Session 3,18/03/2024,Attended,5,Completed
+316,316 Session 4 DNA,Session 4,25/03/2024,DNA,5,Completed
+316,316 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+316,316 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+317,317 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+317,317 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+317,317 Session 2 Attended,Session 2,11/03/2024,Attended,5,Completed
+317,317 Session 3 Attended,Session 3,18/03/2024,Attended,5,Completed
+317,317 Session 4 DNA,Session 4,25/03/2024,DNA,5,Completed
+317,317 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+317,317 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+318,318 Assessment  Attended,Assessment,26/02/2024,Attended,5,Completed
+318,318 Session 1 Attended,Session 1,04/03/2024,Attended,5,Completed
+318,318 Session 2 DNA,Session 2,11/03/2024,DNA,5,Completed
+318,318 Session 3 Attended,Session 3,18/03/2024,Attended,5,Completed
+318,318 Session 4 Attended,Session 4,25/03/2024,Attended,5,Completed
+318,318 Session 5 Attended,Session 5,01/04/2024,Attended,5,Completed
+318,318 Session 6 Attended,Session 6,08/04/2024,Attended,5,Completed
+319,319 Assessment  Attended,Assessment,26/02/2024,Attended,4,Part completed
+319,319 Session 1 Attended,Session 1,11/03/2024,Attended,4,Part completed
+319,319 Session 2 Attended,Session 2,18/03/2024,Attended,4,Part completed
+319,319 Session 3 DNA,Session 3,25/03/2024,DNA,4,Part completed
+319,319 Session 4 DNA,Session 4,01/04/2024,DNA,4,Part completed
+319,319 Session 5 Attended,Session 5,08/04/2024,Attended,4,Part completed
+319,319 Session 6 Attended,Session 6,15/04/2024,Attended,4,Part completed
+320,320 Assessment  Attended,Assessment,22/04/2024,Attended,1,Not started
+320,320 Session 1 Attended,Session 1,29/04/2024,Attended,1,Not started
+320,320 Session 2 DNA,Session 2,06/05/2024,DNA,1,Not started
+320,320 Session 3 DNA,Session 3,13/05/2024,DNA,1,Not started
+320,320 Session 4 DNA,Session 4,20/05/2024,DNA,1,Not started
+320,320 Session 5 DNA,Session 5,27/05/2024,DNA,1,Not started
+320,320 Session 6 DNA,Session 6,03/06/2024,DNA,1,Not started
+321,321 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+321,321 Session 1 Attended,Session 1,15/04/2024,Attended,5,Completed
+321,321 Session 2 DNA,Session 2,22/04/2024,DNA,5,Completed
+321,321 Session 3 Attended,Session 3,06/05/2024,Attended,5,Completed
+321,321 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+321,321 Session 5 Attended,Session 5,20/05/2024,Attended,5,Completed
+321,321 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+322,322 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+322,322 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+322,322 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+322,322 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+322,322 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+322,322 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+322,322 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+323,323 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+323,323 Session 1 Attended,Session 1,12/02/2024,Attended,5,Completed
+323,323 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+323,323 Session 3 Attended,Session 3,11/03/2024,Attended,5,Completed
+323,323 Session 4 DNA,Session 4,18/03/2024,DNA,5,Completed
+323,323 Session 5 Attended,Session 5,25/03/2024,Attended,5,Completed
+323,323 Session 6 Attended,Session 6,01/04/2024,Attended,5,Completed
+324,324 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+324,324 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+324,324 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+324,324 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+324,324 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+324,324 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+324,324 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+325,325 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+325,325 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+325,325 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+325,325 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+325,325 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+325,325 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+325,325 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+326,326 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+326,326 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+326,326 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+326,326 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+326,326 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+326,326 Session 5 Attended,Session 5,06/05/2024,Attended,6,Completed
+326,326 Session 6 Attended,Session 6,13/05/2024,Attended,6,Completed
+327,327 Assessment  Attended,Assessment,25/03/2024,Attended,6,Completed
+327,327 Session 1 Attended,Session 1,01/04/2024,Attended,6,Completed
+327,327 Session 2 Attended,Session 2,08/04/2024,Attended,6,Completed
+327,327 Session 3 Attended,Session 3,15/04/2024,Attended,6,Completed
+327,327 Session 4 Attended,Session 4,22/04/2024,Attended,6,Completed
+327,327 Session 5 Attended,Session 5,29/04/2024,Attended,6,Completed
+327,327 Session 6 Attended,Session 6,06/05/2024,Attended,6,Completed
+328,328 Assessment  Attended,Assessment,11/03/2024,Attended,6,Completed
+328,328 Session 1 Attended,Session 1,18/03/2024,Attended,6,Completed
+328,328 Session 2 Attended,Session 2,25/03/2024,Attended,6,Completed
+328,328 Session 3 Attended,Session 3,01/04/2024,Attended,6,Completed
+328,328 Session 4 Attended,Session 4,08/04/2024,Attended,6,Completed
+328,328 Session 5 Attended,Session 5,15/04/2024,Attended,6,Completed
+328,328 Session 6 Attended,Session 6,22/04/2024,Attended,6,Completed
+329,329 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+329,329 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+329,329 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+329,329 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+329,329 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+329,329 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+329,329 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+330,330 Assessment  Attended,Assessment,11/03/2024,Attended,0,Not started
+330,330 Session 1 DNA,Session 1,18/03/2024,DNA,0,Not started
+330,330 Session 2 DNA,Session 2,25/03/2024,DNA,0,Not started
+330,330 Session 3 DNA,Session 3,01/04/2024,DNA,0,Not started
+330,330 Session 4 DNA,Session 4,08/04/2024,DNA,0,Not started
+330,330 Session 5 DNA,Session 5,15/04/2024,DNA,0,Not started
+330,330 Session 6 DNA,Session 6,22/04/2024,DNA,0,Not started
+331,331 Assessment  Attended,Assessment,26/02/2024,Attended,6,Completed
+331,331 Session 1 Attended,Session 1,04/03/2024,Attended,6,Completed
+331,331 Session 2 Attended,Session 2,11/03/2024,Attended,6,Completed
+331,331 Session 3 Attended,Session 3,18/03/2024,Attended,6,Completed
+331,331 Session 4 Attended,Session 4,25/03/2024,Attended,6,Completed
+331,331 Session 5 Attended,Session 5,01/04/2024,Attended,6,Completed
+331,331 Session 6 Attended,Session 6,08/04/2024,Attended,6,Completed
+332,332 Assessment  Attended,Assessment,08/04/2024,Attended,6,Completed
+332,332 Session 1 Attended,Session 1,15/04/2024,Attended,6,Completed
+332,332 Session 2 Attended,Session 2,22/04/2024,Attended,6,Completed
+332,332 Session 3 Attended,Session 3,29/04/2024,Attended,6,Completed
+332,332 Session 4 Attended,Session 4,13/05/2024,Attended,6,Completed
+332,332 Session 5 Attended,Session 5,20/05/2024,Attended,6,Completed
+332,332 Session 6 Attended,Session 6,27/05/2024,Attended,6,Completed
+333,333 Assessment  Attended,Assessment,26/02/2024,Attended,1,Not started
+333,333 Session 1 Attended,Session 1,04/03/2024,Attended,1,Not started
+333,333 Session 2 DNA,Session 2,11/03/2024,DNA,1,Not started
+333,333 Session 3 DNA,Session 3,18/03/2024,DNA,1,Not started
+333,333 Session 4 DNA,Session 4,25/03/2024,DNA,1,Not started
+333,333 Session 5 DNA,Session 5,01/04/2024,DNA,1,Not started
+333,333 Session 6 DNA,Session 6,15/04/2024,DNA,1,Not started
+334,334 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+334,334 Session 1 DNA,Session 1,29/04/2024,DNA,5,Completed
+334,334 Session 2 Attended,Session 2,06/05/2024,Attended,5,Completed
+334,334 Session 3 Attended,Session 3,13/05/2024,Attended,5,Completed
+334,334 Session 4 Attended,Session 4,20/05/2024,Attended,5,Completed
+334,334 Session 5 Attended,Session 5,27/05/2024,Attended,5,Completed
+334,334 Session 6 Attended,Session 6,03/06/2024,Attended,5,Completed
+335,335 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+335,335 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+335,335 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+335,335 Session 3 DNA,Session 3,20/05/2024,DNA,5,Completed
+335,335 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+335,335 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+335,335 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+336,336 Assessment  Attended,Assessment,05/02/2024,Attended,5,Completed
+336,336 Session 1 DNA,Session 1,12/02/2024,DNA,5,Completed
+336,336 Session 2 Attended,Session 2,19/02/2024,Attended,5,Completed
+336,336 Session 3 Attended,Session 3,04/03/2024,Attended,5,Completed
+336,336 Session 4 Attended,Session 4,11/03/2024,Attended,5,Completed
+336,336 Session 5 Attended,Session 5,18/03/2024,Attended,5,Completed
+336,336 Session 6 Attended,Session 6,01/04/2024,Attended,5,Completed
+337,337 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+337,337 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+337,337 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+337,337 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+337,337 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+337,337 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+337,337 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+338,338 Assessment  Attended,Assessment,26/02/2024,Attended,4,Part completed
+338,338 Session 1 Attended,Session 1,11/03/2024,Attended,4,Part completed
+338,338 Session 2 DNA,Session 2,18/03/2024,DNA,4,Part completed
+338,338 Session 3 Attended,Session 3,25/03/2024,Attended,4,Part completed
+338,338 Session 4 Attended,Session 4,08/04/2024,Attended,4,Part completed
+338,338 Session 5 DNA,Session 5,15/04/2024,DNA,4,Part completed
+338,338 Session 6 Attended,Session 6,22/04/2024,Attended,4,Part completed
+339,339 Assessment  Attended,Assessment,13/05/2024,Attended,5,Completed
+339,339 Session 1 Attended,Session 1,20/05/2024,Attended,5,Completed
+339,339 Session 2 Attended,Session 2,27/05/2024,Attended,5,Completed
+339,339 Session 3 DNA,Session 3,03/06/2024,DNA,5,Completed
+339,339 Session 4 Attended,Session 4,10/06/2024,Attended,5,Completed
+339,339 Session 5 Attended,Session 5,24/06/2024,Attended,5,Completed
+339,339 Session 6 Attended,Session 6,01/07/2024,Attended,5,Completed
+340,340 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+340,340 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+340,340 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+340,340 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+340,340 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+340,340 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+340,340 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+341,341 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+341,341 Session 1 Attended,Session 1,13/05/2024,Attended,5,Completed
+341,341 Session 2 Attended,Session 2,20/05/2024,Attended,5,Completed
+341,341 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+341,341 Session 4 DNA,Session 4,03/06/2024,DNA,5,Completed
+341,341 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+341,341 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+342,342 Assessment  Attended,Assessment,26/02/2024,Attended,0,Not started
+342,342 Session 1 DNA,Session 1,11/03/2024,DNA,0,Not started
+342,342 Session 2 DNA,Session 2,18/03/2024,DNA,0,Not started
+342,342 Session 3 DNA,Session 3,25/03/2024,DNA,0,Not started
+342,342 Session 4 DNA,Session 4,08/04/2024,DNA,0,Not started
+342,342 Session 5 DNA,Session 5,15/04/2024,DNA,0,Not started
+342,342 Session 6 DNA,Session 6,22/04/2024,DNA,0,Not started
+343,343 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+343,343 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+343,343 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+343,343 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+343,343 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+343,343 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+343,343 Session 6 Attended,Session 6,24/06/2024,Attended,6,Completed
+344,344 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+344,344 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+344,344 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+344,344 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+344,344 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+344,344 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+344,344 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+345,345 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+345,345 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+345,345 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+345,345 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+345,345 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+345,345 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+345,345 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+346,346 Assessment  Attended,Assessment,06/05/2024,Attended,4,Not completed
+346,346 Session 1 Attended,Session 1,20/05/2024,Attended,4,Not completed
+346,346 Session 2 DNA,Session 2,27/05/2024,DNA,4,Not completed
+346,346 Session 3 Attended,Session 3,03/06/2024,Attended,4,Not completed
+346,346 Session 4 Attended,Session 4,10/06/2024,Attended,4,Not completed
+346,346 Session 5 Attended,Session 5,17/06/2024,Attended,4,Not completed
+346,346 Session 6 DNA,Session 6,24/06/2024,DNA,4,Not completed
+347,347 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+347,347 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+347,347 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+347,347 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+347,347 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+347,347 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+347,347 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+348,348 Assessment  Attended,Assessment,22/04/2024,Attended,5,Completed
+348,348 Session 1 Attended,Session 1,29/04/2024,Attended,5,Completed
+348,348 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+348,348 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+348,348 Session 4 DNA,Session 4,27/05/2024,DNA,5,Completed
+348,348 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+348,348 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+349,349 Assessment  Attended,Assessment,06/05/2024,Attended,4,Part completed
+349,349 Session 1 DNA,Session 1,13/05/2024,DNA,4,Part completed
+349,349 Session 2 Attended,Session 2,27/05/2024,Attended,4,Part completed
+349,349 Session 3 Attended,Session 3,03/06/2024,Attended,4,Part completed
+349,349 Session 4 DNA,Session 4,10/06/2024,DNA,4,Part completed
+349,349 Session 5 Attended,Session 5,17/06/2024,Attended,4,Part completed
+349,349 Session 6 Attended,Session 6,25/06/2024,Attended,4,Part completed
+350,350 Assessment  Attended,Assessment,06/05/2024,Attended,4,Part completed
+350,350 Session 1 DNA,Session 1,13/05/2024,DNA,4,Part completed
+350,350 Session 2 DNA,Session 2,27/05/2024,DNA,4,Part completed
+350,350 Session 3 Attended,Session 3,03/06/2024,Attended,4,Part completed
+350,350 Session 4 Attended,Session 4,10/06/2024,Attended,4,Part completed
+350,350 Session 5 Attended,Session 5,17/06/2024,Attended,4,Part completed
+350,350 Session 6 Attended,Session 6,25/06/2024,Attended,4,Part completed
+351,351 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+351,351 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+351,351 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+351,351 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+351,351 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+351,351 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+351,351 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+352,352 Assessment  Attended,Assessment,22/04/2024,Attended,2,Not completed
+352,352 Session 1 Attended,Session 1,29/04/2024,Attended,2,Not completed
+352,352 Session 2 Attended,Session 2,13/05/2024,Attended,2,Not completed
+352,352 Session 3 DNA,Session 3,27/05/2024,DNA,2,Not completed
+352,352 Session 4 DNA,Session 4,03/06/2024,DNA,2,Not completed
+352,352 Session 5 DNA,Session 5,10/06/2024,DNA,2,Not completed
+352,352 Session 6 DNA,Session 6,17/06/2024,DNA,2,Not completed
+353,353 Assessment  Attended,Assessment,29/04/2024,Attended,4,Part completed
+353,353 Session 1 Attended,Session 1,13/05/2024,Attended,4,Part completed
+353,353 Session 2 DNA,Session 2,20/05/2024,DNA,4,Part completed
+353,353 Session 3 Attended,Session 3,27/05/2024,Attended,4,Part completed
+353,353 Session 4 Attended,Session 4,03/06/2024,Attended,4,Part completed
+353,353 Session 5 DNA,Session 5,10/06/2024,DNA,4,Part completed
+353,353 Session 6 Attended,Session 6,17/06/2024,Attended,4,Part completed
+354,354 Assessment  Attended,Assessment,22/04/2024,Attended,4,Not completed
+354,354 Session 1 Attended,Session 1,29/04/2024,Attended,4,Not completed
+354,354 Session 2 Attended,Session 2,13/05/2024,Attended,4,Not completed
+354,354 Session 3 DNA,Session 3,07/05/2024,DNA,4,Not completed
+354,354 Session 4 Attended,Session 4,27/05/2024,Attended,4,Not completed
+354,354 Session 5 Attended,Session 5,10/06/2024,Attended,4,Not completed
+354,354 Session 6 DNA,Session 6,17/06/2024,DNA,4,Not completed
+355,355 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+355,355 Session 1 DNA,Session 1,06/05/2024,DNA,5,Completed
+355,355 Session 2 Attended,Session 2,13/05/2024,Attended,5,Completed
+355,355 Session 3 Attended,Session 3,20/05/2024,Attended,5,Completed
+355,355 Session 4 Attended,Session 4,27/05/2024,Attended,5,Completed
+355,355 Session 5 Attended,Session 5,03/06/2024,Attended,5,Completed
+355,355 Session 6 Attended,Session 6,10/06/2024,Attended,5,Completed
+356,356 Assessment  Attended,Assessment,27/05/2024,Attended,0,Not started
+356,356 Session 1 DNA,Session 1,03/06/2024,DNA,0,Not started
+356,356 Session 2 DNA,Session 2,10/06/2024,DNA,0,Not started
+356,356 Session 3 DNA,Session 3,17/06/2024,DNA,0,Not started
+356,356 Session 4 DNA,Session 4,25/06/2024,DNA,0,Not started
+356,356 Session 5 DNA,Session 5,01/07/2024,DNA,0,Not started
+356,356 Session 6 DNA,Session 6,08/07/2024,DNA,0,Not started
+357,357 Assessment  Attended,Assessment,08/04/2024,Attended,5,Completed
+357,357 Session 1 Attended,Session 1,15/04/2024,Attended,5,Completed
+357,357 Session 2 DNA,Session 2,22/04/2024,DNA,5,Completed
+357,357 Session 3 Attended,Session 3,29/04/2024,Attended,5,Completed
+357,357 Session 4 Attended,Session 4,13/05/2024,Attended,5,Completed
+357,357 Session 5 Attended,Session 5,20/05/2024,Attended,5,Completed
+357,357 Session 6 Attended,Session 6,27/05/2024,Attended,5,Completed
+358,358 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+358,358 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+358,358 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+358,358 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+358,358 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+358,358 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+358,358 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed
+359,359 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+359,359 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+359,359 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+359,359 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+359,359 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+359,359 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+359,359 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+360,360 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+360,360 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+360,360 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+360,360 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+360,360 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+360,360 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+360,360 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+361,361 Assessment  Attended,Assessment,06/05/2024,Attended,1,Not started
+361,361 Session 1 Attended,Session 1,13/05/2024,Attended,1,Not started
+361,361 Session 2 DNA,Session 2,20/05/2024,DNA,1,Not started
+361,361 Session 3 DNA,Session 3,27/05/2024,DNA,1,Not started
+361,361 Session 4 DNA,Session 4,03/06/2024,DNA,1,Not started
+361,361 Session 5 DNA,Session 5,17/06/2024,DNA,1,Not started
+361,361 Session 6 DNA,Session 6,25/06/2024,DNA,1,Not started
+362,362 Assessment  Attended,Assessment,29/04/2024,Attended,5,Completed
+362,362 Session 1 Attended,Session 1,06/05/2024,Attended,5,Completed
+362,362 Session 2 DNA,Session 2,20/05/2024,DNA,5,Completed
+362,362 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+362,362 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+362,362 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+362,362 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+363,363 Assessment  Attended,Assessment,06/05/2024,Attended,3,Part completed
+363,363 Session 1 DNA,Session 1,13/05/2024,DNA,3,Part completed
+363,363 Session 2 Attended,Session 2,27/05/2024,Attended,3,Part completed
+363,363 Session 3 DNA,Session 3,03/06/2024,DNA,3,Part completed
+363,363 Session 4 Attended,Session 4,17/06/2024,Attended,3,Part completed
+363,363 Session 5 DNA,Session 5,25/06/2024,DNA,3,Part completed
+363,363 Session 6 Attended,Session 6,01/07/2024,Attended,3,Part completed
+364,364 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+364,364 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+364,364 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+364,364 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+364,364 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+364,364 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+364,364 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+365,365 Assessment  Attended,Assessment,06/05/2024,Attended,5,Completed
+365,365 Session 1 Attended,Session 1,13/05/2024,Attended,5,Completed
+365,365 Session 2 DNA,Session 2,20/05/2024,DNA,5,Completed
+365,365 Session 3 Attended,Session 3,27/05/2024,Attended,5,Completed
+365,365 Session 4 Attended,Session 4,03/06/2024,Attended,5,Completed
+365,365 Session 5 Attended,Session 5,10/06/2024,Attended,5,Completed
+365,365 Session 6 Attended,Session 6,17/06/2024,Attended,5,Completed
+366,366 Assessment  Attended,Assessment,29/04/2024,Attended,1,Not started
+366,366 Session 1 Attended,Session 1,13/05/2024,Attended,1,Not started
+366,366 Session 2 DNA,Session 2,20/05/2024,DNA,1,Not started
+366,366 Session 3 DNA,Session 3,27/05/2024,DNA,1,Not started
+366,366 Session 4 DNA,Session 4,10/06/2024,DNA,1,Not started
+366,366 Session 5 DNA,Session 5,17/06/2024,DNA,1,Not started
+366,366 Session 6 DNA,Session 6,25/06/2024,DNA,1,Not started
+367,367 Assessment  Attended,Assessment,03/06/2024,Attended,0,Not started
+367,367 Session 1 DNA,Session 1,17/06/2024,DNA,0,Not started
+367,367 Session 2 DNA,Session 2,25/06/2024,DNA,0,Not started
+367,367 Session 3 DNA,Session 3,01/07/2024,DNA,0,Not started
+367,367 Session 4 DNA,Session 4,08/07/2024,DNA,0,Not started
+367,367 Session 5 DNA,Session 5,15/07/2024,DNA,0,Not started
+367,367 Session 6 DNA,Session 6,22/07/2024,DNA,0,Not started
+368,368 Assessment  Attended,Assessment,20/05/2024,Attended,4,Not completed
+368,368 Session 1 Attended,Session 1,27/05/2024,Attended,4,Not completed
+368,368 Session 2 Attended,Session 2,03/06/2024,Attended,4,Not completed
+368,368 Session 3 Attended,Session 3,10/06/2024,Attended,4,Not completed
+368,368 Session 4 Attended,Session 4,24/06/2024,Attended,4,Not completed
+368,368 Session 5 DNA,Session 5,01/07/2024,DNA,4,Not completed
+368,368 Session 6 DNA,Session 6,08/07/2024,DNA,4,Not completed
+369,369 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+369,369 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+369,369 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+369,369 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+369,369 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+369,369 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+369,369 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+370,370 Assessment  Attended,Assessment,06/05/2024,Attended,6,Completed
+370,370 Session 1 Attended,Session 1,13/05/2024,Attended,6,Completed
+370,370 Session 2 Attended,Session 2,20/05/2024,Attended,6,Completed
+370,370 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+370,370 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+370,370 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+370,370 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+371,371 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+371,371 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+371,371 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+371,371 Session 3 Attended,Session 3,20/05/2024,Attended,6,Completed
+371,371 Session 4 Attended,Session 4,27/05/2024,Attended,6,Completed
+371,371 Session 5 Attended,Session 5,03/06/2024,Attended,6,Completed
+371,371 Session 6 Attended,Session 6,10/06/2024,Attended,6,Completed
+372,372 Assessment  Attended,Assessment,29/04/2024,Attended,4,Part completed
+372,372 Session 1 Attended,Session 1,06/05/2024,Attended,4,Part completed
+372,372 Session 2 DNA,Session 2,13/05/2024,DNA,4,Part completed
+372,372 Session 3 Attended,Session 3,27/05/2024,Attended,4,Part completed
+372,372 Session 4 DNA,Session 4,03/06/2024,DNA,4,Part completed
+372,372 Session 5 Attended,Session 5,10/06/2024,Attended,4,Part completed
+372,372 Session 6 Attended,Session 6,17/06/2024,Attended,4,Part completed
+373,373 Assessment  Attended,Assessment,29/04/2024,Attended,6,Completed
+373,373 Session 1 Attended,Session 1,06/05/2024,Attended,6,Completed
+373,373 Session 2 Attended,Session 2,13/05/2024,Attended,6,Completed
+373,373 Session 3 Attended,Session 3,27/05/2024,Attended,6,Completed
+373,373 Session 4 Attended,Session 4,03/06/2024,Attended,6,Completed
+373,373 Session 5 Attended,Session 5,10/06/2024,Attended,6,Completed
+373,373 Session 6 Attended,Session 6,17/06/2024,Attended,6,Completed
+374,374 Assessment  Attended,Assessment,22/04/2024,Attended,6,Completed
+374,374 Session 1 Attended,Session 1,29/04/2024,Attended,6,Completed
+374,374 Session 2 Attended,Session 2,06/05/2024,Attended,6,Completed
+374,374 Session 3 Attended,Session 3,13/05/2024,Attended,6,Completed
+374,374 Session 4 Attended,Session 4,20/05/2024,Attended,6,Completed
+374,374 Session 5 Attended,Session 5,27/05/2024,Attended,6,Completed
+374,374 Session 6 Attended,Session 6,03/06/2024,Attended,6,Completed

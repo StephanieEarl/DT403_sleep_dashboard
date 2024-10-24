@@ -1,0 +1,231 @@
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:47] "[33mGET /api/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "GET /static/dashboard_stylesheet.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "GET /static/dashboard_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+ERROR:root:Database error: near "person_ID": syntax error
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 08:56:58] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\fixtures.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\config\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\capture.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\doctest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\junitxml.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\legacypath.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\logging.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\monkeypatch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\recwarn.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\_pytest\\tmpdir.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\numpy\\typing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\numpy\\_utils\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sqlalchemy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sqlalchemy\\engine\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sqlalchemy\\engine\\interfaces.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sqlalchemy\\event\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\searl\\AppData\\Local\\anaconda3\\Lib\\site-packages\\sqlalchemy\\event\\registry.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:56] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:56] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:56] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:57] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+ERROR:root:Database error: near "person_ID": syntax error
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:57] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:57] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:16:57] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+ERROR:root:Database error: near "person_ID": syntax error
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:21:47] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "GET /api/sessions_attended HTTP/1.1" 200 -
+ERROR:root:Database error: near "person_ID": syntax error
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:22:07] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET /static/dashboard_stylesheet.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET /static/dashboard_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+ERROR:root:Database error: near "person_ID": syntax error
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:30:59] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:31:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "GET /api/sessions_attended HTTP/1.1" 200 -
+ERROR:root:Database error: near "AS": syntax error
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "[33mGET /api/contact_status HTTP/1.1[0m" 404 -
+ERROR:root:Error in /api/participants_per_age: 500 Internal Server Error: Database error occurred.
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "[35m[1mGET /api/participants_per_age HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:35:44] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /static/dashboard_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:43:07] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 13:46:38] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET /api/sleep_disorder HTTP/1.1" 200 -
+DEBUG:root:Query result: [(None, 461)]
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 14:01:37] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:00] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:00] "[36mGET /static/dashboard_script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:00] "GET /api/sessions_attended HTTP/1.1" 200 -
+DEBUG:root:Query result: [('2024-02', 6), ('2024-03', 43), ('2024-04', 81), ('2024-05', 102), ('2024-06', 142), ('2024-07', 87)]
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:01] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:01] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:01] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:32:01] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "[36mGET /static/dashboard_stylesheet.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /static/dashboard_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /api/sessions_attended HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /api/sleep_disorder HTTP/1.1" 200 -
+DEBUG:root:Query result: [('2024-02', 6), ('2024-03', 43), ('2024-04', 81), ('2024-05', 102), ('2024-06', 142), ('2024-07', 87)]
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Oct/2024 15:41:57] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Documents\\GitHub\\sleep_dashboard\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 200-209-040

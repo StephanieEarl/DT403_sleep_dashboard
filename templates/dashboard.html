@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Dashboard</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+    <link rel="stylesheet" href="/static/dashboard_stylesheet.css">
+
+</head>
+
+<body>
+
+    <header>
+        <div class="dashboard-title">Sleep Study Data Dashboard</div>
+        <p class="header-description">Welcome to the Sleep Study Dashboard. This is a constructed dataset with data from data published in Kaggle. 
+            Columns have been added to give a wider range of data for test reporting purposes.
+        </p>
+    </header>
+
+    <div class="container">
+        
+        <section>
+            <div class="chart-row">
+                <div class="chart-container full-width">
+                    <h2>Participants per Age</h2>
+                    <canvas id="participantAgeChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="chart-row">
+                <div class="chart-container half-width">
+                    <h2>Sessions Attended</h2>
+                    <canvas id="sessionsAttendedChart"></canvas>
+                </div>
+                <div class="chart-container half-width">
+                    <h2>Sessions DNA</h2>
+                    <canvas id="sessionsDnaChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="chart-row">
+                <div class="chart-container half-width">
+                    <h2>Course Status</h2>
+                    <canvas id="courseStatusChart"></canvas>
+                </div>
+                <div class="chart-container half-width">
+                    <h2>Sleep Disorders</h2>
+                    <canvas id="sleepDisorderChart"></canvas>
+                </div>
+            </div>
+        </section>
+    </div>
+
+ 
+
+    <script src="/static/dashboard_script.js"></script>
+
+    <footer>
+        <div class="footer">Sleep study dashboard based on Copyright 2024 CCL Ecommerce Dashboard</div>
+    </footer>
+</body>
+</html>
