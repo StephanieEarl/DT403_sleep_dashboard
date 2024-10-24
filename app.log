@@ -229,3 +229,19 @@ INFO:werkzeug: * Detected change in 'c:\\Users\\searl\\OneDrive - Ingeus\\Docume
 INFO:werkzeug: * Restarting with watchdog (windowsapi)
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 200-209-040
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 770-708-016
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:24] "GET /static/dashboard_stylesheet.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:24] "GET /static/dashboard_script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/participants_per_age HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/sleep_disorder HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/course_status HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/sessions_attended HTTP/1.1" 200 -
+DEBUG:root:Query result: [('2024-02', 6), ('2024-03', 43), ('2024-04', 81), ('2024-05', 102), ('2024-06', 142), ('2024-07', 87)]
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/sessions_dna HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
