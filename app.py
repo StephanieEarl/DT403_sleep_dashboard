@@ -80,12 +80,12 @@ def participants_per_age() -> Response:
         logging.error("Error in /api/participants_per_age: %s", e)
         abort(500, description="Error processing data.")
 
-@app.route("/api/course_status")
+@app.route("/api/clinic_status")
 def course_status() -> Response:
     query = """
-    SELECT course_status, COUNT(DISTINCT person_ID) AS total_participants
+    SELECT clinic_status, COUNT(DISTINCT person_ID) AS total_participants
     FROM Sessions
-    GROUP BY course_status
+    GROUP BY clinic_status
     ORDER BY total_participants DESC;
     """
     try:
@@ -95,7 +95,7 @@ def course_status() -> Response:
         return jsonify({"status": status, "counts": counts})
         
     except Exception as e:
-        logging.error("Error in /api/course_status: %s", e)
+        logging.error("Error in /api/clinic_status: %s", e)
         abort(500, description="Error processing data.")
 
 @app.route("/api/sessions_attended")

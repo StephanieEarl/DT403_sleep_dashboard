@@ -48,7 +48,7 @@ body {
   }
   
   /* Adjusting the size of the pie charts */
-  #courseStatusChart,
+  #clinicStatusChart,
   #sleepDisorderChart {
     height: 250px;
   }
