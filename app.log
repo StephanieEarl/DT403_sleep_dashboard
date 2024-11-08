@@ -245,3 +245,7 @@ INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/sessions_attended H
 DEBUG:root:Query result: [('2024-02', 6), ('2024-03', 43), ('2024-04', 81), ('2024-05', 102), ('2024-06', 142), ('2024-07', 87)]
 INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "GET /api/sessions_dna HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [24/Oct/2024 09:52:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Dropped table Participant
+INFO:root:Dropped table Physical
+INFO:root:Dropped table Sessions
+INFO:root:Dropped table Sleep

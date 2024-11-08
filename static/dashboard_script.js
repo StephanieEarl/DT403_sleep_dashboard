@@ -94,7 +94,7 @@ fetchDataAndRenderChart("/api/participants_per_age", "participantAgeChart", (dat
         
 }));
 
-fetchDataAndRenderChart("/api/course_status", "courseStatusChart", (data) => ({
+fetchDataAndRenderChart("/api/clinic_status", "clinicStatusChart", (data) => ({
     type: "pie",
     data: {
         labels: data.status,
