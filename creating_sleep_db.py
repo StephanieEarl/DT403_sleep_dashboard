@@ -51,6 +51,7 @@ CREATE TABLE Sessions (
 """
 cursor.execute(create_sessions_table)
 
+
 # Looping through each  CSV to write to a separate table
 
 for csv_files, table_names in zip(csv_files, table_names):
@@ -65,6 +66,22 @@ for csv_files, table_names in zip(csv_files, table_names):
         df.to_sql(table_names, conn, if_exists='append', index=False)
     else:
         df.to_sql(table_names, conn, if_exists='replace', index=False)
+
+# Renaming a column in an existing table
+alter_sessions_table = """
+ALTER TABLE Sessions RENAME COLUMN course_status TO clinic_status;
+"""
+cursor.execute(alter_sessions_table)
+
+alter_physical_table = """
+ALTER TABLE Physical RENAME COLUMN bmi TO calculated_bmi;
+"""
+cursor.execute(alter_physical_table)
+
+alter_sleep_table = """
+ALTER TABLE Sleep RENAME COLUMN sleep_duration_hours TO avg_sleep_hours;
+"""
+cursor.execute(alter_sleep_table)
 
 # Commit and close the connection
 
