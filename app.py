@@ -81,7 +81,7 @@ def participants_per_age() -> Response:
         abort(500, description="Error processing data.")
 
 @app.route("/api/clinic_status")
-def course_status() -> Response:
+def clinic_status() -> Response:
     query = """
     SELECT clinic_status, COUNT(DISTINCT person_ID) AS total_participants
     FROM Sessions
